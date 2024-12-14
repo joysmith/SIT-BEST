@@ -1,1 +1,1 @@
-# Symbiosis-Institute-of-Technology-SIT-Pune-BEST
+[https://www.iobit.in/shop/iot-experience-kit-2](Training manual)
