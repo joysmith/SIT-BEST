@@ -1,4 +1,4 @@
-### Interfacing PoT for reading Analog value
+### Interfacing BMP280 Sensor
 
 ```js
 // Potentiometer is connected to GPIO 36(AnalogADC1_CH6)
