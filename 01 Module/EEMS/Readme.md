@@ -12,7 +12,12 @@
 
 ## 1️⃣ Unit
 
-### Introduction to Internet of Things:
+- [ ]
+
+<br>
+<br>
+
+## 2️⃣ Unit
 
 - [ ]
 
@@ -21,52 +26,12 @@
 
 ## 3️⃣ Unit
 
-### Sensors:
-
-- [ ] Sensors: Definition,
-- [ ] Property of Sensors,
-
-### Types of sensors:
-
-- [ ] Types of sensors: Transducers,
-- [ ] Temperature Sensors,
-- [ ] Humidity Sensors.
-- [ ] Pressure Sensors.
-- [ ] Proximity Sensors.
-- [ ] Level Sensors.
-- [ ] Accelerometers.
-- [ ] Gyroscope.
-- [ ] Gas Sensors. etc.,
-- [ ] Sensors Classes
-
-### Actuation:
-
-- [ ] Actuation: Actuator,
-
-### Actuator Types:
-
-- [ ] Actuator Types: Hydraulic Pneumatic,
-- [ ] Electrical,
-- [ ] Thermal/ Magnetic,
-- [ ] Mechanical,
-- [ ] Soft Actuators,
-- [ ] Shape memory polymer (SMP)
-- [ ] Types of Motor Actuators and their working- Servo motor,
-- [ ] Stepper motor,
-- [ ] Hydraulic motor,
-- [ ] Solenoid Relay,
-- [ ] AC motor
+- [ ]
 
 <br>
 <br>
 
 ## 4️⃣ Unit
-
-### Introduction to Arduino Programming:
-
-- [ ]
-
-### Implementation of IoT:
 
 - [ ]
 
@@ -75,13 +40,7 @@
 
 ## 5️⃣ Unit
 
-### Cloud Computing Fundamentals:
-
 - [ ]
-
-### Case studies:
-
-- [ ] Case studies:
 
 ---
 
@@ -146,8 +105,8 @@
 # 6. Self study reference<a id='6'></a>
 
 1. The Story of electricity [click me](https://www.youtube.com/watch?v=Gtp51eZkwoI)
-2. [click me]()
-3. [click me]()
+2. Photoelectric cell working [click me](https://www.youtube.com/watch?v=Rf2ymqBDvF8&list=WL&index=7)
+3. Photoelectric cell working [click me](https://www.youtube.com/watch?v=l1rjErRvbgw&list=WL&index=6)
 4. [click me]()
 5. [click me]()
 6. [click me]()
