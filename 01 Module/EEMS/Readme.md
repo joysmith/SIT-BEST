@@ -55,12 +55,12 @@
 - [x] 4. Operation of inductive analog sensor – flush head. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/04%20project.md>).
 - [x] 5. Operation of capacitive sensor – flush head [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/05%20project.md>).
 - [x] 6. Operation of optical sensor -diffuse beam.[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/06%20project.md>).
-- [ ] 7. Operation of optical sensor diffuse beam with background suppression. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/07%20project.md>).
+- [x] 7. Operation of optical sensor diffuse beam with background suppression. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/07%20project.md>).
 - [x] 8. Operation of optical sensor – thru beam. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/08%20project.md>).
-- [ ] 9. Operation of optical sensor – retro reflective using reflector. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/09%20project.md>).
+- [x] 9. Operation of optical sensor – retro reflective using reflector. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/09%20project.md>).
 - [x] 10. Operation of diffuse beam fibre optic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/10%20project.md>).
-- [ ] 11. Operation of thru beam optic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/11%20project.md>).
-- [ ] 12. Operation of color sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/12%20project.md>).
+- [x] 11. Operation of thru beam optic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/11%20project.md>).
+- [x] 12. Operation of color sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/12%20project.md>).
 - [x] 13. Operation of ultrasonic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/13%20project.md>).
 - [x] 14. Introduction to advance sensor LiDAR ...[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/14%20project.md>)
 
