@@ -105,8 +105,7 @@
 # 6. Self study reference<a id='6'></a>
 
 1. The Story of electricity [click me](https://www.youtube.com/watch?v=Gtp51eZkwoI)
-2. Photoelectric cell working [click me](https://www.youtube.com/watch?v=Rf2ymqBDvF8&list=WL&index=7)
-3. Photoelectric cell working [click me](https://www.youtube.com/watch?v=l1rjErRvbgw&list=WL&index=6)
+2. EEMS Youtube playlist [click me](https://www.youtube.com/watch?v=XI49uFm5HRE&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw)
+3. [click me]()
 4. [click me]()
 5. [click me]()
-6. [click me]()
