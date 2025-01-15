@@ -103,7 +103,6 @@
 - [ ] 11. Operation of thru beam optic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/11%20project.md>).
 - [ ] 12. Operation of color sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/12%20project.md>).
 - [x] 13. Operation of ultrasonic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/13%20project.md>).
-
 - [x] 14. Introduction to advance sensor LiDAR ...[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/14%20project.md>)
 
 ---
