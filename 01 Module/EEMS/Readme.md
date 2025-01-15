@@ -125,7 +125,7 @@
 # 4. Notes<a id='4'></a>
 
 - Download Notes [click me]()
-- Download EEMS LAB file [click me]()
+- Download EEMS LAB file [click me](https://github.com/joysmith/Symbiosis-Institute-of-Technology-SIT-Pune-BEST/blob/main/01%20Module/EEMS/assets/Resource/sensor%20lab%20file.pdf)
   - You have to make a practical file
   - Use classmate hardcover file
 
