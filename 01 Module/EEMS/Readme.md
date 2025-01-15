@@ -109,3 +109,20 @@
 3. [click me]()
 4. [click me]()
 5. [click me]()
+
+---
+
+### Experimental
+
+1. [What is sensor](https://www.youtube.com/watch?v=XI49uFm5HRE&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw)
+2. [Types of sensor](https://www.youtube.com/watch?v=J_KoRp8SnoE&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=6)
+3. [Sensor Calibration](https://www.youtube.com/watch?v=n_lZCIA25aI&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=2)
+4. [Inductive sensor explained](https://www.youtube.com/watch?v=TEOCHrnotrk&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw&index=2)
+5. [Capacitive Sensor Explained ](https://www.youtube.com/watch?v=o4_6yu-GIDU&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=42)
+6. [Photoelectric Sensor Explained (with Practical Examples)](https://www.youtube.com/watch?v=l1rjErRvbgw&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=40)
+7. [Photoelectric Sensor Wiring and Setup](https://www.youtube.com/watch?v=g3utygIYy0E&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=42)
+
+---
+
+8. [Transistor working](https://www.youtube.com/watch?v=RdYHljZi7ys)
+9. [How electricity work](https://www.youtube.com/watch?v=3KePcASD0NQ)
