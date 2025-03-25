@@ -1,0 +1,10 @@
+On delay timer
+
+
+ld m1		|  		    |			out m2
+		|(drag and drop TON)|
+T#5S		|___________________|		
+
+
+
+ld TON_1.Q	out m5

@@ -1,0 +1,6 @@
+	m20		Fmov d10 d20 7 
+
+
+- fill move instruction
+- take take from d20 data register and fill it from D20 to D26
+- fmov d10(selected register)	d20(start register)	7(from 20-26) 

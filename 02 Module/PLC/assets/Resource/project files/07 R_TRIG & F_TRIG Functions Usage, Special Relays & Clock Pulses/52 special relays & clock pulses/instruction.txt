@@ -1,0 +1,62 @@
+
+	sm8000					out m1
+
+	sm8001					out m2
+
+	sm8002					set m3
+
+
+
+			|		|
+	sm8013		|  R_TRIG_1	|	out m5
+			|		|
+
+
+	
+			|		|
+	sm8012		|  R_TRIG_1	|	out m6
+			|		|
+
+
+
+
+-------------------
+notes
+
+- sm8000: always on special relay
+- sm8001: always off special relay
+- sm8002: 
+- sm8013: 100ms on/off clock pulse
+- sm8012: 50ms on/off clock pulse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

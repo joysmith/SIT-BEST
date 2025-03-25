@@ -1,0 +1,2 @@
+	ld sm8000	int2flt d0 d2
+			flt2int d2 d4

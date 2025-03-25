@@ -1,0 +1,52 @@
+
+Timer on off: when we want to off machine after sometime for instance after 10s
+
+
+---Version 1----
+
+ld m25		|		|	out m30
+		|	TOF	|	
+T#7S		|		|	
+
+
+td TOF_1.Q	out m31
+
+
+
+---Version 2---
+
+ldp m1 (start)		rst m25
+
+ld m25		|		|	out m30
+		|	TOF	|	
+T#7S		|		|	
+
+
+ld m35 (stop)	rst m25
+
+step1: switch on start button
+step2: switch on then off stop button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

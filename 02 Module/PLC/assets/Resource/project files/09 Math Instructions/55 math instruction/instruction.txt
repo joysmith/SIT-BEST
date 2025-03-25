@@ -1,0 +1,8 @@
+	sm800		+ d0	 d2	 d3
+			- d10	 d12	 d14 
+			*d20	 d22	 d24
+			/d30	 d22	 d34
+
+
+D: 16 bit binary data register
+SM800: always power on

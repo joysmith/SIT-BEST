@@ -1,0 +1,9 @@
+ld StartBtn		ldi StopBtn		out SystemRun
+
+or SystemRun
+
+
+
+ldp StartBtn		set y0
+
+lpd StopBtn		rst y0

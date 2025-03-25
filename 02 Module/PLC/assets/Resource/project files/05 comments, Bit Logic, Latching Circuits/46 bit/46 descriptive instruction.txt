@@ -1,0 +1,13 @@
+LD m0		LD m1		LDI m2		OUT y0
+
+OR m3				ORI m7
+
+
+
+LDP m4		SET m10
+
+LDF m5		RST m10
+
+
+----------
+to change bit shift + enter 

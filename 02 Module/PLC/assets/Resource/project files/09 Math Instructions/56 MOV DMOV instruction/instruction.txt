@@ -1,0 +1,8 @@
+	m0	mov	3	d0
+		mov	d2	d4
+
+	m1	dmov	d6	d8
+
+
+- data resister only contains 16 bit data i.e 2^16 depend on signed and unsidned
+- to store more data we use DMOV instruction, it uses D6-D7  to D8-D9 to store data

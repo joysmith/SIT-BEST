@@ -1,0 +1,9 @@
+	m25	|				|	D0
+		| Timer_cont_FB_M 		|
+		|				|
+	100	|				|	out m30
+	0	|				|
+
+
+
+ldp Timer_cont_FB_M.status			rst Timer_cont_FB_M.status

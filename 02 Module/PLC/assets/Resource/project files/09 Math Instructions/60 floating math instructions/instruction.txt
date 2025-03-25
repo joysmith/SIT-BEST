@@ -1,0 +1,7 @@
+--------sm8000---------	|-- demul 5.0  5.1  d10 --|
+		 	|-- deadd 5.1  5.3  d17 --|
+			|-- desub 2.5  4.2  d14 --|
+			|-- dediv 10.0 2.5  d16 --|
+
+- d: for double
+  e: for floating point data

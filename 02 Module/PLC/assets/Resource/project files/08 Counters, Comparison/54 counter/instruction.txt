@@ -1,0 +1,16 @@
+			|		|
+ m10   ldp sm8013	|   CTU_1	|	out m12
+ m11			|		| 	d0
+		25	| 		|
+
+
+
+ m20  ldp sm8013	|		|	out m22
+ m21			|   CTU_1	|	d1
+		25	|		|
+			| 		|
+
+
+counter up function:
+counter down function: to run counter down function we need to upload value fo d1, so we switch om m21 and make it off in simulation
+counter_up/counter_down: are object and we can access method by . notation

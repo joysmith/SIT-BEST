@@ -1,0 +1,7 @@
+	m3	Bmov	d50	d60	5
+
+
+- Block move instruction: move first five data from d50-d55 to d60-d65
+- d50 from where to move data
+  d60 from where to fill data
+  5 how many data block to move
