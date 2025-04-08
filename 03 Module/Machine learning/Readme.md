@@ -10,37 +10,17 @@
 
 # 1. Syllabus<a id='1'></a>
 
-## 1️⃣ Unit
-
-- [ ]
-
-<br>
-<br>
-
-## 2️⃣ Unit
-
-- [ ]
-
-<br>
-<br>
-
-## 3️⃣ Unit
-
-- [ ]
-
-<br>
-<br>
-
-## 4️⃣ Unit
-
-- [ ]
-
-<br>
-<br>
-
-## 5️⃣ Unit
-
-- [ ]
+- [ ] Types of Machine learning
+- [ ] ML software - Neural networks
+- [ ] Feature extraction process
+- [ ] Development of algorithms and Data aggregation
+- [ ] Supervised and unsupervised learning
+- [ ] Model Training
+- [ ] Sensor technology, Machine interface
+- [ ] Testing & Evaluation
+- [ ] AI ML based acoustic inspection of vehicle
+- [ ] AI ML based automated identification of various assembly error
+- [ ] Understanding of acoustic, pass by noise, Fast Fourier transformation"
 
 ---
 
@@ -59,10 +39,6 @@
 - [x] 8. Operation of optical sensor – thru beam. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/08%20project.md>).
 - [x] 9. Operation of optical sensor – retro reflective using reflector. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/09%20project.md>).
 - [x] 10. Operation of diffuse beam fibre optic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/10%20project.md>).
-- [x] 11. Operation of thru beam optic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/11%20project.md>).
-- [x] 12. Operation of color sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/12%20project.md>).
-- [x] 13. Operation of ultrasonic sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/13%20project.md>).
-- [x] 14. Introduction to advance sensor LiDAR ...[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/14%20project.md>)
 
 ---
 
@@ -71,10 +47,8 @@
 
 # 3. 📚 Books<a id='3'></a>
 
-1. Inductive Sensors for Industrial Applications by Sorin Fericean -Artech House Publishers
-2. Smart Sensors for Industrial Applications by Krzysztof Iniewski -CRC Press
-3. Electronic device and circuit theory by Robert L Boylestad -Prentice Hall
-4. Industrial process sensors by David M. Scott -CRC Press
+1. Machine learning: the art and science of algorithms that make sense of data By Flach
+2. Machine learning: a probabilistic perspective By Murphy (MIT press)
 
 ---
 
@@ -83,10 +57,7 @@
 
 # 4. Notes<a id='4'></a>
 
-- Download Notes [click me]()
-- Download EEMS LAB file [click me](https://github.com/joysmith/Symbiosis-Institute-of-Technology-SIT-Pune-BEST/blob/main/01%20Module/EEMS/assets/Resource/sensor%20lab%20file.pdf)
-  - You have to make a practical file
-  - Use classmate hardcover file
+- Download Practical file [click me]()
 
 ---
 
@@ -104,25 +75,7 @@
 
 # 6. Self study reference<a id='6'></a>
 
-1. The Story of electricity [click me](https://www.youtube.com/watch?v=Gtp51eZkwoI)
-2. EEMS Youtube playlist [click me](https://www.youtube.com/watch?v=XI49uFm5HRE&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw)
-3. [click me]()
-4. [click me]()
-5. [click me]()
+1. ML Online course [click me](https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/)
+2. ML Online course [click me](https://cognitiveclass.ai/)
 
 ---
-
-### Experimental
-
-1. [What is sensor](https://www.youtube.com/watch?v=XI49uFm5HRE&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw)
-2. [Types of sensor](https://www.youtube.com/watch?v=J_KoRp8SnoE&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=6)
-3. [Sensor Calibration](https://www.youtube.com/watch?v=n_lZCIA25aI&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=2)
-4. [Inductive sensor explained](https://www.youtube.com/watch?v=TEOCHrnotrk&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw&index=2)
-5. [Capacitive Sensor Explained ](https://www.youtube.com/watch?v=o4_6yu-GIDU&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=42)
-6. [Photoelectric Sensor Explained (with Practical Examples)](https://www.youtube.com/watch?v=l1rjErRvbgw&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=40)
-7. [Photoelectric Sensor Wiring and Setup](https://www.youtube.com/watch?v=g3utygIYy0E&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=42)
-
----
-
-8. [Transistor working](https://www.youtube.com/watch?v=RdYHljZi7ys)
-9. [How electricity work](https://www.youtube.com/watch?v=3KePcASD0NQ)
