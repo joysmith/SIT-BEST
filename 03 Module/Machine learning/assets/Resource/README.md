@@ -140,9 +140,3 @@
 - Topics: Tkinter, Exception handling, Write, read and update JSON Data, Reading CSVs, Pandas, Opening and Writing to Files
 
 </details>
-
-<br>
-
-<details>
-
-<summary>💪 Intermediate+, Day 32-58</summary>
