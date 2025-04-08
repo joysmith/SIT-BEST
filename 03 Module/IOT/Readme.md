@@ -57,7 +57,7 @@
 
 # 4. Notes<a id='4'></a>
 
-- Download Notes [click me]()
+- Download Practical file [click me]()
 
 ---
 
