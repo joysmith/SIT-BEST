@@ -6,8 +6,8 @@
 
 ### Where to download arduino IDE
 
-- Download Arduino IDE [Click me](../../Resource/CH34x_Install_Windows_v3_4.zip)
-- Download Arduino driver [Click me](https://www.arduino.cc/en/software)
+- Download Arduino IDE [Click me](https://www.arduino.cc/en/software)
+- Download Arduino driver [Click me](../../Resource/CH34x_Install_Windows_v3_4.zip)
 
 <br>
 
