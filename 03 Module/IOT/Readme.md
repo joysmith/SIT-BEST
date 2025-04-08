@@ -35,10 +35,10 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [x] 1. Arduino Uno microcontroller. [click me](<assets/lab/01 arduino.md>)
-- [x] 2. Node MCU microcontroller. [click me](<assets/lab/02 nodemcu.md>)
-- [x] 3. Raspberry pi zero microcontroller. [click me](<assets/lab/03 raspberrypizero.md>)
-- [x] 4. ARM stm32 microcontroller. [click me](<assets/lab/04 armstm32.md>)
+- [ ] 1. Arduino Uno microcontroller. [click me](<assets/lab/01 arduino.md>)
+- [ ] 2. Node MCU microcontroller. [click me](<assets/lab/02 nodemcu.md>)
+- [ ] 3. Raspberry pi zero microcontroller. [click me](<assets/lab/03 raspberrypizero.md>)
+- [ ] 4. ARM stm32 microcontroller. [click me](<assets/lab/04 armstm32.md>)
 
 ---
 
