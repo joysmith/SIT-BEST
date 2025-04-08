@@ -4,7 +4,7 @@
 
 ### 👨🏻‍🎓 Beginner
 
-#### ✔ 1. [Working with Variables in Python to Manage Data](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/01%20Working%20with%20Variables%20in%20Python%20to%20Manage%20Data)
+#### ✔ 1. [Working with Variables in Python to Manage Data](<1 Beginner/01 Working with Variables in Python to Manage Data/README.md>)
 
 - Topics: Printing, Commenting, Debugging, String Manipulation, and Variables
 
@@ -71,7 +71,7 @@
 
 ### 🏋🏻‍♂️ Intermediate
 
-#### ✔ 15. [Local Development Environment Setup & the Coffee Machine Project](<1 Beginner/01 Working with Variables in Python to Manage Data/README.md>)
+#### ✔ 15. [Local Development Environment Setup & the Coffee Machine Project](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/15%20Local%20Development%20Environment%20Setup%20%26%20the%20Coffee%20Machine%20Project)
 
 - Topics: Setup Local Development Environment and Coffee Machine Project, PEP8 Style Guide, Functions, Using Pycharm
 
