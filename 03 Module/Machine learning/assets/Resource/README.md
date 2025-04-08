@@ -71,7 +71,7 @@
 
 ### 🏋🏻‍♂️ Intermediate
 
-#### ✔ 15. [Local Development Environment Setup & the Coffee Machine Project](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/15%20Local%20Development%20Environment%20Setup%20%26%20the%20Coffee%20Machine%20Project)
+#### ✔ 15. [Local Development Environment Setup & the Coffee Machine Project](<1 Beginner/01 Working with Variables in Python to Manage Data/README.md>)
 
 - Topics: Setup Local Development Environment and Coffee Machine Project, PEP8 Style Guide, Functions, Using Pycharm
 
