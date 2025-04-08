@@ -1,4 +1,4 @@
-### How to switch ON SCARA
+## How to switch ON SCARA
 
 1. Mains power supply on from wall
 2. **SCARA robo station** switch on by rotating selector switch
@@ -25,14 +25,14 @@
 <br>
 <br>
 
-### How to switch OFF SCARA
+## How to switch OFF SCARA
 
 Perform the Start step in reverse order
 
 <br>
 <br>
 
-### How to Operate SCARA in JOG mode -Manual
+## How to Operate SCARA in JOG mode -Manual
 
 1. **Teaching Pendant**
    - Teach button on (white light will glow)
@@ -45,9 +45,9 @@ Perform the Start step in reverse order
 <br>
 <br>
 
-### How to run SCARA Homing program -Manual
+## How to run SCARA Homing program -Manual
 
-#### Option 1
+### Option 1
 
 1. **Pendant**
    - press "character" button
@@ -60,7 +60,7 @@ Perform the Start step in reverse order
    - press "servo" button
    - Hold "F1" button for "IMOVE" option
 
-#### Option 2
+### Option 2
 
 1. **Pendant**
    - press "Character" --> RUN
