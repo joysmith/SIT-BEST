@@ -70,4 +70,6 @@ Perform the Start step in reverse order
 3. press F4 "Choose"
 4. File name "HOME"
 5. Make sure reset is 001
-6. off teach button, and in CCU select:
+6. off teach button, and in **_CCU_** select:multi station. multi cycle
+7. servo on
+8. press "F1"
