@@ -35,10 +35,10 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [x] 1. Arduino Uno microcontroller. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
-- [x] 2. Node MCU microcontroller. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/02%20project.md>).
-- [x] 3. Raspberry pi zero microcontroller. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/03%20project.md>).
-- [x] 4. ARM stm32 microcontroller. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/04%20project.md>).
+- [x] 1. Arduino Uno microcontroller. [click me](<assets/lab/01 arduino.md>)
+- [x] 2. Node MCU microcontroller. [click me](<assets/lab/02 nodemcu.md>)
+- [x] 3. Raspberry pi zero microcontroller. [click me](<assets/lab/03 raspberrypizero.md>)
+- [x] 4. ARM stm32 microcontroller. [click me](<assets/lab/04 armstm32.md>)
 
 ---
 
