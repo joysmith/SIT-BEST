@@ -14,3 +14,6 @@
 <br>
 
 ### How to run 6-Axis Homing program -Manual
+
+<br>
+<br>
