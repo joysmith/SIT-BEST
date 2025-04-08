@@ -57,10 +57,8 @@
 
 # 3. 📚 Books<a id='3'></a>
 
-1. Inductive Sensors for Industrial Applications by Sorin Fericean -Artech House Publishers
-2. Smart Sensors for Industrial Applications by Krzysztof Iniewski -CRC Press
-3. Electronic device and circuit theory by Robert L Boylestad -Prentice Hall
-4. Industrial process sensors by David M. Scott -CRC Press
+1. Internet of Things: A Hands-on Approach by Arshdeep Bahga and Vijay K. Madisetti
+2. Rethinking the Internet of Things; A scalable Approach to connect Everything By Francis de Costa [click me](https://library.oapen.org/bitstream/handle/20.500.12657/28154/1/1001840.pdf)
 
 ---
 
@@ -70,9 +68,6 @@
 # 4. Notes<a id='4'></a>
 
 - Download Notes [click me]()
-- Download EEMS LAB file [click me](https://github.com/joysmith/Symbiosis-Institute-of-Technology-SIT-Pune-BEST/blob/main/01%20Module/EEMS/assets/Resource/sensor%20lab%20file.pdf)
-  - You have to make a practical file
-  - Use classmate hardcover file
 
 ---
 
@@ -90,25 +85,8 @@
 
 # 6. Self study reference<a id='6'></a>
 
-1. The Story of electricity [click me](https://www.youtube.com/watch?v=Gtp51eZkwoI)
-2. EEMS Youtube playlist [click me](https://www.youtube.com/watch?v=XI49uFm5HRE&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw)
-3. [click me]()
-4. [click me]()
-5. [click me]()
+1. NPTEL online course IoT [click me](https://archive.nptel.ac.in/courses/106/105/106105166/)
+2. edX online course IoT[click me](https://www.edx.org/learn/iot-internet-of-things/curtin-university-introduction-to-the-internet-of-things-iot)
+3. Stanford online course IoT[click me](https://online.stanford.edu/courses/xee100-introduction-internet-things)
 
 ---
-
-### Experimental
-
-1. [What is sensor](https://www.youtube.com/watch?v=XI49uFm5HRE&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw)
-2. [Types of sensor](https://www.youtube.com/watch?v=J_KoRp8SnoE&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=6)
-3. [Sensor Calibration](https://www.youtube.com/watch?v=n_lZCIA25aI&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=2)
-4. [Inductive sensor explained](https://www.youtube.com/watch?v=TEOCHrnotrk&list=PLr8CEjIYYEqx7moDz2WQwpWLWRO4tSwtw&index=2)
-5. [Capacitive Sensor Explained ](https://www.youtube.com/watch?v=o4_6yu-GIDU&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=42)
-6. [Photoelectric Sensor Explained (with Practical Examples)](https://www.youtube.com/watch?v=l1rjErRvbgw&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=40)
-7. [Photoelectric Sensor Wiring and Setup](https://www.youtube.com/watch?v=g3utygIYy0E&list=PLln3BHg93SQ812ihcqWb9OOWbZ-09DLW6&index=42)
-
----
-
-8. [Transistor working](https://www.youtube.com/watch?v=RdYHljZi7ys)
-9. [How electricity work](https://www.youtube.com/watch?v=3KePcASD0NQ)
