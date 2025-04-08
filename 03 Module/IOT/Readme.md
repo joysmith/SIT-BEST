@@ -10,37 +10,23 @@
 
 # 1. Syllabus<a id='1'></a>
 
-## 1️⃣ Unit
-
-- [ ]
-
-<br>
-<br>
-
-## 2️⃣ Unit
-
-- [ ]
-
-<br>
-<br>
-
-## 3️⃣ Unit
-
-- [ ]
-
-<br>
-<br>
-
-## 4️⃣ Unit
-
-- [ ]
-
-<br>
-<br>
-
-## 5️⃣ Unit
-
-- [ ]
+- [ ] Introduction to Internet of Things
+- [ ] IoT enabled sensors
+- [ ] IoT architecture
+- [ ] M2M communications
+- [ ] Standard IoT Protocols
+- [ ] Network topology and common standards
+- [ ] Cyber Security
+- [ ] Edge Computing and Embedded IoT
+- [ ] Cloud storage
+- [ ] Python Programming ,SQL
+- [ ] Selection of IoT devices
+- [ ] Data acquisition
+- [ ] Cyber physical state device
+- [ ] Sensible use of Data
+- [ ] User interface (UI) & user experience (UX) - Case studies
+- [ ] Prescriptive Maintenance -Condition based monitoring (CBM)
+- [ ] Introduction to Big data and its types (DBMS)
 
 ---
 
