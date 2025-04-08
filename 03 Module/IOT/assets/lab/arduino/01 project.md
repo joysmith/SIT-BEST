@@ -1,21 +1,3 @@
-## 1. Introduction to various sensors and actuators.
-
-a) PIR Motion Sensor. <br>
-b) Rain Drop Sensor. <br>
-c) Moisture Sensor. <br>
-d) Temperature Sensor. <br>
-e) Touch Sensor. <br>
-f) Infrared Sensor. <br>
-g) RFID Sensor. <br>
-h) Ultrasonic Sensor. <br>
-i) Bluetooth Module. <br>
-j) Wi-Fi Module. <br>
-k) LED/OLED. <br>
-l) Servo Motor. <br>
-
-<br>
-<br>
-
 ### Ardunio uno specification
 
 - Specification [Click me](https://docs.arduino.cc/hardware/uno-rev3/#tech-specs)
