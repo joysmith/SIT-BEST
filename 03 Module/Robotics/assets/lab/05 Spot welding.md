@@ -24,6 +24,12 @@
    - single block
 8. **_HMI_**
    - emergency release
+9. **IO Link module**
+   - release "emergency switch"
+10. **Pendant**
+    - "Teach" button on
+    - release "emergency switch"
+    - Hold "safety switch" and once press "reset"-key, then while holding "shift"-key press x, -x, y, -y, z, -z
 
 <br>
 <br>
@@ -38,6 +44,8 @@
 ### How to Operate "Spot Welding Robot" in JOG mode -Manual
 
 1. **Pendant**
+   - "Teach" button on
+   - release "emergency switch"
    - Hold "safety switch" and once press "reset"-key, then while holding "shift"-key press x, -x, y, -y, z, -z
 
 <br>
