@@ -1,6 +1,6 @@
 <details>
 
-<summary>👨🏻‍🎓 Beginner, Day 1-14</summary>
+<summary>👨🏻‍🎓 Beginner</summary>
 
 ### 👨🏻‍🎓 Beginner
 
@@ -67,75 +67,75 @@
 
 <details>
 
-<summary>🏋🏻‍♂️ Intermediate, Day 15-31</summary>
+<summary>🏋🏻‍♂️ Intermediate</summary>
 
 ### 🏋🏻‍♂️ Intermediate
 
-#### ✔ 15. [Local Development Environment Setup & the Coffee Machine Project](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/15%20Local%20Development%20Environment%20Setup%20%26%20the%20Coffee%20Machine%20Project)
+#### ✔ 15. [Local Development Environment Setup & the Coffee Machine Project][text](<2 Intermediate/15 Local Development Environment Setup & the Coffee Machine Project/README.md>)
 
 - Topics: Setup Local Development Environment and Coffee Machine Project, PEP8 Style Guide, Functions, Using Pycharm
 
-#### ✔ 16. [Object Oriented Programming (OOP)](<https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/16%20Object%20Oriented%20Programming%20(OOP)>)
+#### ✔ 16. [Object Oriented Programming (OOP)][text](<2 Intermediate/16 Object Oriented Programming (OOP)/README.md>)
 
 - Topics: Object Oriented Programming (OOP): Classes, Objects, Constructing Objects, Accessing Attributes, Add Python Packages, Modifying Object Attributes and Calling Methods
 
-#### ✔ 17. [The Quiz Project & the Benefits of OOP](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/17%20The%20Quiz%20Project%20%26%20the%20Benefits%20of%20OOP)
+#### ✔ 17. [The Quiz Project & the Benefits of OOP][text](<2 Intermediate/17 The Quiz Project & the Benefits of OOP/README.md>)
 
 - Topics: Object Oriented Programming (OOP): Classes, Attributes, Class Constructors (init()), Methods
 
-#### ✔ 18. [Turtle Graphics and GUIs](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/18%20Turtle%20Graphics%20and%20GUIs)
+#### ✔ 18. [Turtle Graphics and GUIs][text](<2 Intermediate/18 Turtle Graphics and GUIs/README.md>)
 
 - Topics: Turtle Graphics, Tuples, and Importing Modules
 
-#### ✔ 19. [Instances, State and Higher Order Functions](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/19%20Instances%2C%20State%20and%20Higher%20Order%20Functions)
+#### ✔ 19. [Instances, State and Higher Order Functions][text](<2 Intermediate/19 Instances, State and Higher Order Functions/README.md>)
 
 - Topics: Turtle Graphics, Event listeners, Functions, Objects States and Instances, Turtle Coordinate System
 
-#### ✔ 20. [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/20%20Build%20the%20Snake%20Game%20Part%201%20Animation%20%26%20Coordinates)
+#### ✔ 20. [Build the Snake Game Part 1: Animation & Coordinates][text](<2 Intermediate/20 Build the Snake Game Part 1 Animation & Coordinates/README.md>)
 
 - Topics: Turtle module, Animating Snake Segments, OOP and classes
 
-#### ✔ 21. [Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/21%20Build%20the%20Snake%20Game%20Part%202%20Inheritance%20%26%20List%20Slicing)
+#### ✔ 21. [Build the Snake Game Part 2: Inheritance & List Slicing][text](<2 Intermediate/21 Build the Snake Game Part 2 Inheritance & List Slicing/README.md>)
 
 - Topics: Turtle module, Class Inheritance, Slicing
 
-#### ✔ 22. [Build Pong: The Famous Arcade Game](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/22%20Build%20Pong%20The%20Famous%20Arcade%20Game)
+#### ✔ 22. [Build Pong: The Famous Arcade Game][text](<2 Intermediate/22 Build Pong The Famous Arcade Game/README.md>)
 
 - Topics: Turtle module, OOP: Classes, Game Logic
 
-#### 🏁 23. [The Turtle Crossing Capstone Project](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/23%20The%20Turtle%20Crossing%20Capstone%20Project)
+#### 🏁 23. [The Turtle Crossing Capstone Project][text](<2 Intermediate/23 The Turtle Crossing Capstone Project/README.md>)
 
 - Topics: OOP: Constructor Classes, Inheritance, Turtle Coordinate System, Turtle Game engine
 
-#### ✔ 24. [Files, Directories and Paths](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/24%20Files%2C%20Directories%20and%20Paths)
+#### ✔ 24. [Files, Directories and Paths][text](<2 Intermediate/24 Files, Directories and Paths/README.md>)
 
 - Topics: Open, Read, and Write to Files, Relative and Absolute File Paths, Readlines Method, Replace() Method, Strip() Method
 
-#### ✔ 25. [Working with CSV Data and the Pandas Library](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/25%20Working%20with%20CSV%20Data%20and%20the%20Pandas%20Library)
+#### ✔ 25. [Working with CSV Data and the Pandas Library][text](<2 Intermediate/25 Working with CSV Data and the Pandas Library/README.md>)
 
 - Topics: CSV Library, Pandas Library: DataFrames and Series
 
-#### ✔ 26. [List Comprehension & the NATO Pilot's Alphabet](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/26%20List%20Comprehension%20%26%20the%20NATO%20Pilot's%20Alphabet)
+#### ✔ 26. [List Comprehension & the NATO Pilot's Alphabet][text](<2 Intermediate/26 List Comprehension & the NATO Pilot's Alphabet/README.md>)
 
 - Topics: List Comprehension, Dictionary Comprehension, Iterate over Pandas DataFrames
 
-#### ✔ 27. [Tkinter, \*args, \*\*kwargs and Creating GUI Programs](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/27%20Tkinter%2C%20args%2C%20kwargs%20and%20Creating%20GUI%20Programs)
+#### ✔ 27. [Tkinter, \*args, \*\*kwargs and Creating GUI Programs][text](<2 Intermediate/27 Tkinter, args, kwargs and Creating GUI Programs/README.md>)
 
 - Topics: Graphical User Interfaces with Tkinter (Widgets and Methods), Advanced Functions (\*Args, \*\*Kwargs)
 
-#### ✔ 28. [Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/28%20Tkinter%2C%20Dynamic%20Typing%20and%20the%20Pomodoro%20GUI%20Application)
+#### ✔ 28. [Tkinter, Dynamic Typing and the Pomodoro GUI Application][text](<2 Intermediate/28 Tkinter, Dynamic Typing and the Pomodoro GUI Application/README.md>)
 
 - Topics: Tkinter, Canvas Widget, Add Images to Tkinter, UI, Dynamic Typing
 
-#### ✔ 29. [Building a Password Manager GUI App with Tkinter](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/29%20Building%20a%20Password%20Manager%20GUI%20App%20with%20Tkinter)
+#### ✔ 29. [Building a Password Manager GUI App with Tkinter][text](<2 Intermediate/29 Building a Password Manager GUI App with Tkinter/README.md>)
 
 - Topics: Tkinter: Working with Images and Setting up the Canvas, Using grid() and columnspan Dialogue boxes and pop-ups, Reviewed list comprehensions, and join() method
 
-#### ✔ 30. [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/30%20Errors%2C%20Exceptions%20and%20JSON%20Data%20Improving%20the%20Password%20Manager)
+#### ✔ 30. [Errors, Exceptions and JSON Data: Improving the Password Manager][text](<2 Intermediate/30 Errors, Exceptions and JSON Data Improving the Password Manager/README.md>)
 
 - Topics: Errors, Raising Exceptions, Write, read and update JSON Data, IndexError Handling, KeyError Handling, Exception Handling
 
-#### 🏁 31. [Capstone Project - Flash Card App](https://github.com/joysmith/python-by-angela-yu/tree/main/2%20Intermediate/31%20Capstone%20Project%20-%20Flash%20Card%20App)
+#### 🏁 31. [Capstone Project - Flash Card App][text](<2 Intermediate/31 Capstone Project - Flash Card App/README.md>)
 
 - Topics: Tkinter, Exception handling, Write, read and update JSON Data, Reading CSVs, Pandas, Opening and Writing to Files
 
