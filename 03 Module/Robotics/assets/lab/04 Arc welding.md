@@ -17,7 +17,11 @@
    - release "emergency switch"
    - turn to "single station"
    - turn to "single block"
-6. **Pendant**
+6. **IO Link module**
+   - release "emergency switch"
+7. **Pendant**
+   - "Teach" button on
+   - release "emergency switch"
    - Hold "safety switch" and press reset, then while holding "shift"-key press x, -x, y, -y, z, -z
 
 <br>
