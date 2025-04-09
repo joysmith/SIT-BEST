@@ -8,56 +8,56 @@
 
 - Topics: Printing, Commenting, Debugging, String Manipulation, and Variables
 
-#### ✔ 2. [Understanding Data Types and How to Manipulate Strings](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/02%20Understanding%20Data%20Types%20and%20How%20to%20Manipulate%20Strings)
+#### ✔ 2. [Understanding Data Types and How to Manipulate Strings](<1 Beginner/02 Understanding Data Types and How to Manipulate Strings/README.md>)
 
 - Topics: Data Types, Numbers, Operations, Type Conversion, f-Strings
 
-#### ✔ 3. [Control Flow and Logical Operators](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/03%20Control%20Flow%20and%20Logical%20Operators)
+#### ✔ 3. [Control Flow and Logical Operators](<1 Beginner/03 Control Flow and Logical Operators/README.md>)
 
 - Topics: Conditional Statements, Logical Operators, Code Blocks and Scope
 
-#### ✔ 4. [Randomisation and Python Lists](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/04%20Randomisation%20and%20Python%20Lists)
+#### ✔ 4. [Randomisation and Python Lists](<1 Beginner/04 Randomisation and Python Lists/README.md>)
 
 - Topics: Randomisation and Python Lists
 
-#### ✔ 5. [Python Loops](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/05%20Python%20Loops)
+#### ✔ 5. [Python Loops](<1 Beginner/05 Python Loops/README.md>)
 
 - Topics: Python Loops
 
-#### ✔ 6. [Python Functions & Karel](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/06%20Python%20Functions%20%26%20Karel)
+#### ✔ 6. [Python Functions & Karel](<1 Beginner/06 Python Functions & Karel/README.md>)
 
 - Topics: Functions, Code Blocks, and While Loops
 
-#### ✔ 7. [Hangman](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/07%20Hangman)
+#### ✔ 7. [Hangman](<1 Beginner/07 Hangman/README.md>)
 
 - Topics: For & While Loops, IF/ELSE, Lists, Strings, Range, Random module, ASCII art, Improve User Experience
 
-#### ✔ 8. [Function Parameters & Caesar Cipher](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/08%20Function%20Parameters%20%26%20Caesar%20Cipher)
+#### ✔ 8. [Function Parameters & Caesar Cipher](<1 Beginner/08 Function Parameters & Caesar Cipher/README.md>)
 
 - Topics: Functions with Inputs, Positional vs. Keyword Arguments
 
-#### ✔ 9. [Dictionaries, Nesting and the Secret Auction](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/09%20Dictionaries%2C%20Nesting%20and%20the%20Secret%20Auction)
+#### ✔ 9. [Dictionaries, Nesting and the Secret Auction](<1 Beginner/09 Dictionaries, Nesting and the Secret Auction/README.md>)
 
 - Topics: Dictionaries and Nesting
 
-#### ✔ 10. [Function Return Values and the Calculator Project](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/10%20Function%20Return%20Values%20and%20the%20Calculator%20Project)
+#### ✔ 10. [Function Return Values and the Calculator Project](<1 Beginner/10 Function Return Values and the Calculator Project/README.md>)
 
 - Topics: Functions with Outputs, Docstrings
 
-#### 🏁 11. [Blackjack Capstone Project](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/11%20Blackjack%20Capstone%20Project)
+#### 🏁 11. [Blackjack Capstone Project](<1 Beginner/11 Blackjack Capstone Project/README.md>)
 
 - Blackjack Capstone Project
 - Still a work in progress
 
-#### ✔ 12. [Scope and Namespacing in Python](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/12%20Scope%20and%20Namespacing%20in%20Python)
+#### ✔ 12. [Scope and Namespacing in Python](<1 Beginner/12 Scope and Namespacing in Python/README.md>)
 
 - Topics: Namespaces, Local vs. Global Scope, Modifying a Global Variable, Python Constants
 
-#### ✔ 13. [Debugging: How to Find and Fix Errors in your Code](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/13%20Debugging%20How%20to%20Find%20and%20Fix%20Errors%20in%20your%20Code)
+#### ✔ 13. [Debugging: How to Find and Fix Errors in your Code](<1 Beginner/13 Debugging How to Find and Fix Errors in your Code/README.md>)
 
 - Topics: Describe the Problem, Reproduce the Bug, Evaluate Each Line, Use a print() Statement, Use a Debugger
 
-#### ✔ 14. [Higher Lower Game Project](https://github.com/joysmith/python-by-angela-yu/tree/main/1%20Beginner/14%20Higher%20Lower%20Game%20Project)
+#### ✔ 14. [Higher Lower Game Project](<1 Beginner/14 Higher Lower Game Project/README.md>)
 
 - Topics: Using Dictionaries, Conditionals, Functions, Debugging, and Random module
 
