@@ -71,71 +71,71 @@
 
 ### 🏋🏻‍♂️ Intermediate
 
-#### ✔ 15. [Local Development Environment Setup & the Coffee Machine Project][text](<2 Intermediate/15 Local Development Environment Setup & the Coffee Machine Project/README.md>)
+#### ✔ 15. [Local Development Environment Setup & the Coffee Machine Project](<2 Intermediate/15 Local Development Environment Setup & the Coffee Machine Project/README.md>)
 
 - Topics: Setup Local Development Environment and Coffee Machine Project, PEP8 Style Guide, Functions, Using Pycharm
 
-#### ✔ 16. [Object Oriented Programming (OOP)][text](<2 Intermediate/16 Object Oriented Programming (OOP)/README.md>)
+#### ✔ 16. [Object Oriented Programming (OOP)](<2 Intermediate/16 Object Oriented Programming (OOP)/README.md>)
 
 - Topics: Object Oriented Programming (OOP): Classes, Objects, Constructing Objects, Accessing Attributes, Add Python Packages, Modifying Object Attributes and Calling Methods
 
-#### ✔ 17. [The Quiz Project & the Benefits of OOP][text](<2 Intermediate/17 The Quiz Project & the Benefits of OOP/README.md>)
+#### ✔ 17. [The Quiz Project & the Benefits of OOP](<2 Intermediate/17 The Quiz Project & the Benefits of OOP/README.md>)
 
 - Topics: Object Oriented Programming (OOP): Classes, Attributes, Class Constructors (init()), Methods
 
-#### ✔ 18. [Turtle Graphics and GUIs][text](<2 Intermediate/18 Turtle Graphics and GUIs/README.md>)
+#### ✔ 18. [Turtle Graphics and GUIs](<2 Intermediate/18 Turtle Graphics and GUIs/README.md>)
 
 - Topics: Turtle Graphics, Tuples, and Importing Modules
 
-#### ✔ 19. [Instances, State and Higher Order Functions][text](<2 Intermediate/19 Instances, State and Higher Order Functions/README.md>)
+#### ✔ 19. [Instances, State and Higher Order Functions](<2 Intermediate/19 Instances, State and Higher Order Functions/README.md>)
 
 - Topics: Turtle Graphics, Event listeners, Functions, Objects States and Instances, Turtle Coordinate System
 
-#### ✔ 20. [Build the Snake Game Part 1: Animation & Coordinates][text](<2 Intermediate/20 Build the Snake Game Part 1 Animation & Coordinates/README.md>)
+#### ✔ 20. [Build the Snake Game Part 1: Animation & Coordinates](<2 Intermediate/20 Build the Snake Game Part 1 Animation & Coordinates/README.md>)
 
 - Topics: Turtle module, Animating Snake Segments, OOP and classes
 
-#### ✔ 21. [Build the Snake Game Part 2: Inheritance & List Slicing][text](<2 Intermediate/21 Build the Snake Game Part 2 Inheritance & List Slicing/README.md>)
+#### ✔ 21. [Build the Snake Game Part 2: Inheritance & List Slicing](<2 Intermediate/21 Build the Snake Game Part 2 Inheritance & List Slicing/README.md>)
 
 - Topics: Turtle module, Class Inheritance, Slicing
 
-#### ✔ 22. [Build Pong: The Famous Arcade Game][text](<2 Intermediate/22 Build Pong The Famous Arcade Game/README.md>)
+#### ✔ 22. [Build Pong: The Famous Arcade Game](<2 Intermediate/22 Build Pong The Famous Arcade Game/README.md>)
 
 - Topics: Turtle module, OOP: Classes, Game Logic
 
-#### 🏁 23. [The Turtle Crossing Capstone Project][text](<2 Intermediate/23 The Turtle Crossing Capstone Project/README.md>)
+#### 🏁 23. [The Turtle Crossing Capstone Project](<2 Intermediate/23 The Turtle Crossing Capstone Project/README.md>)
 
 - Topics: OOP: Constructor Classes, Inheritance, Turtle Coordinate System, Turtle Game engine
 
-#### ✔ 24. [Files, Directories and Paths][text](<2 Intermediate/24 Files, Directories and Paths/README.md>)
+#### ✔ 24. [Files, Directories and Paths](<2 Intermediate/24 Files, Directories and Paths/README.md>)
 
 - Topics: Open, Read, and Write to Files, Relative and Absolute File Paths, Readlines Method, Replace() Method, Strip() Method
 
-#### ✔ 25. [Working with CSV Data and the Pandas Library][text](<2 Intermediate/25 Working with CSV Data and the Pandas Library/README.md>)
+#### ✔ 25. [Working with CSV Data and the Pandas Library](<2 Intermediate/25 Working with CSV Data and the Pandas Library/README.md>)
 
 - Topics: CSV Library, Pandas Library: DataFrames and Series
 
-#### ✔ 26. [List Comprehension & the NATO Pilot's Alphabet][text](<2 Intermediate/26 List Comprehension & the NATO Pilot's Alphabet/README.md>)
+#### ✔ 26. [List Comprehension & the NATO Pilot's Alphabet](<2 Intermediate/26 List Comprehension & the NATO Pilot's Alphabet/README.md>)
 
 - Topics: List Comprehension, Dictionary Comprehension, Iterate over Pandas DataFrames
 
-#### ✔ 27. [Tkinter, \*args, \*\*kwargs and Creating GUI Programs][text](<2 Intermediate/27 Tkinter, args, kwargs and Creating GUI Programs/README.md>)
+#### ✔ 27. [Tkinter, \*args, \*\*kwargs and Creating GUI Programs](<2 Intermediate/27 Tkinter, args, kwargs and Creating GUI Programs/README.md>)
 
 - Topics: Graphical User Interfaces with Tkinter (Widgets and Methods), Advanced Functions (\*Args, \*\*Kwargs)
 
-#### ✔ 28. [Tkinter, Dynamic Typing and the Pomodoro GUI Application][text](<2 Intermediate/28 Tkinter, Dynamic Typing and the Pomodoro GUI Application/README.md>)
+#### ✔ 28. [Tkinter, Dynamic Typing and the Pomodoro GUI Application](<2 Intermediate/28 Tkinter, Dynamic Typing and the Pomodoro GUI Application/README.md>)
 
 - Topics: Tkinter, Canvas Widget, Add Images to Tkinter, UI, Dynamic Typing
 
-#### ✔ 29. [Building a Password Manager GUI App with Tkinter][text](<2 Intermediate/29 Building a Password Manager GUI App with Tkinter/README.md>)
+#### ✔ 29. [Building a Password Manager GUI App with Tkinter](<2 Intermediate/29 Building a Password Manager GUI App with Tkinter/README.md>)
 
 - Topics: Tkinter: Working with Images and Setting up the Canvas, Using grid() and columnspan Dialogue boxes and pop-ups, Reviewed list comprehensions, and join() method
 
-#### ✔ 30. [Errors, Exceptions and JSON Data: Improving the Password Manager][text](<2 Intermediate/30 Errors, Exceptions and JSON Data Improving the Password Manager/README.md>)
+#### ✔ 30. [Errors, Exceptions and JSON Data: Improving the Password Manager](<2 Intermediate/30 Errors, Exceptions and JSON Data Improving the Password Manager/README.md>)
 
 - Topics: Errors, Raising Exceptions, Write, read and update JSON Data, IndexError Handling, KeyError Handling, Exception Handling
 
-#### 🏁 31. [Capstone Project - Flash Card App][text](<2 Intermediate/31 Capstone Project - Flash Card App/README.md>)
+#### 🏁 31. [Capstone Project - Flash Card App](<2 Intermediate/31 Capstone Project - Flash Card App/README.md>)
 
 - Topics: Tkinter, Exception handling, Write, read and update JSON Data, Reading CSVs, Pandas, Opening and Writing to Files
 
