@@ -20,3 +20,4 @@ def draw_spirograph(size_of_gap):
         tim.setheading(tim.heading() + size_of_gap)
 
 draw_spirograph(5)
+tim.exitonclick()
