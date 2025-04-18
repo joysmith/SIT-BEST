@@ -1,14 +1,77 @@
-- [x] 1. Introduction to various sensors and actuators.[click me](<01 project.md>)
-- [x] 2. Acquaintance with NodeMCU and perform essential programming establishment.[click me](<02 project.md>)
-- [x] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later at regular intervals.[click me](<03 project.md>)
-- [x] 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point (AP) mode .[click me](<04 project.md>)
-- [x] 5. Perform Experiment for Controlling LED through an HTTP page Using NodeMCU Station Mode (STA)[click me](<05 project.md>)
-- [x] 6. Interact with DHT11 sensor with NodeMCU and compose a program to print temperature and humidity readings on screen.[click me](<06 project.md>)
-- [ ] 7. Communicate OLED with NodeMCU and compose a program to print temperature and moisture readings on it.[click me](<07 project.md>)
-- [x] 8. Communicate Bluetooth with Arduino/ NodeMCU and compose a program to send sensor information to cell phone utilizing Bluetooth.[click me](<08 project.md>)
-- [ ] 9. Connect Bluetooth with Arduino/ NodeMCU and compose a program to turn LED ON/OFF when '1'/'0' is sent from cell phone utilizing Bluetooth.[click me](<09 project.md>)
-- [x] 10. Compose a program on NodeMCU to transfer temperature and stickiness information to thingspeak,Blynk or any other free cloud.[click me](<10 project.md>)
-- [ ] 11. Compose a program on NodeMCU to fetch temperature and moistness information from thingspeak cloud and display it using OLED.[click me](<11 project.md>)
-- [ ] 12. Creating a webpage and display the values received from sensors through NodeMCU.[click me](<12 project.md>)
-- [x] 13. Study of other IoT Boards and components available. (Student Activity).[click me](<13 project.md>)
-- [x] EXTRA (Unit 5: cloud computing with AWS)[click me](<14 project.md>)
+## Micro controller: ESP32
+
+### Setting up ESP32 in the Arduino IDE on Windows
+
+- download arduino ide [click me](https://www.arduino.cc/en/software)
+
+<br>
+
+#### Install the drivers USB chip<a id="13"></a>
+
+- Download and Install Drivers for window[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/pololu-cp2102-windows-220616.zip>)
+- restart system
+
+<br>
+
+#### How to setup nodemcu(esp8266) board
+
+1. Open arduino, go to file--> preference--> additional board manager URL:_paste json link here_
+
+```sh
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+```
+
+2. Open arduino, go to tools--> board--> board manger--> search:"ESP32 by EspressifSystems" --> install
+
+3. Open arduino, go to tools--> boards--> "DOIT ESP32 DEVKITV1"
+
+4. Open the following example under File > Examples > WiFi (ESP32) > WiFiScan
+
+5. go to menu Tools--> Port--> COM(arduino)
+
+6. Open the Arduino IDE Serial Monitor at a baud rate of 115200
+
+```ino
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)
+  delay(1000);                      // wait for a second
+
+  digitalWrite(LED_BUILTIN, LOW);  // turn the LED off by making the voltage LOW
+  delay(1000);                     // wait for a second
+}
+
+```
+
+- click on ✅ to compile, then ➡️ to upload sketch on nodemcu
+
+<br>
+
+```ino
+#define led D0
+
+void setup()
+{
+  pinMode(led, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(led, HIGH);
+  delay(500);
+  digitalWrite(led, LOW);
+  delay(500);
+}
+
+```
+
+#### extra
+
+- reference [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/project%203%20-%20nodemcu%20blink.pdf>)
