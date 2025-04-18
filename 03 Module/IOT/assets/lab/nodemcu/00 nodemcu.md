@@ -31,47 +31,4 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 6. Open the Arduino IDE Serial Monitor at a baud rate of 115200
 
-```ino
-
-// the setup function runs once when you press reset or power the board
-void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
-  pinMode(LED_BUILTIN, OUTPUT);
-}
-
-// the loop function runs over and over again forever
-void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)
-  delay(1000);                      // wait for a second
-
-  digitalWrite(LED_BUILTIN, LOW);  // turn the LED off by making the voltage LOW
-  delay(1000);                     // wait for a second
-}
-
-```
-
-- click on ✅ to compile, then ➡️ to upload sketch on nodemcu
-
-<br>
-
-```ino
-#define led D0
-
-void setup()
-{
-  pinMode(led, OUTPUT);
-}
-
-void loop()
-{
-  digitalWrite(led, HIGH);
-  delay(500);
-  digitalWrite(led, LOW);
-  delay(500);
-}
-
-```
-
-#### extra
-
-- reference [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/project%203%20-%20nodemcu%20blink.pdf>)
+7. Press the ESP32 on-board Enable button and you should see the networks available near your ESP32
