@@ -25,10 +25,23 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 3. Open arduino, go to tools--> boards--> "DOIT ESP32 DEVKITV1"
 
-4. Open the following example under File > Examples > WiFi (ESP32) > WiFiScan
+4. go to menu Tools--> Port--> COM(arduino)
 
-5. go to menu Tools--> Port--> COM(arduino)
+5. Paste code to ide to blink builtin led
 
-6. Open the Arduino IDE Serial Monitor at a baud rate of 115200
+```js
+const int ledPin = 2; // GPIO2 is usually the built-in LED
 
-7. Press the ESP32 on-board Enable button and you should see the networks available near your ESP32
+void setup() {
+  pinMode(ledPin, OUTPUT); // Set the pin as an output
+}
+
+void loop() {
+  digitalWrite(ledPin, HIGH); // Turn the LED on
+  delay(1000);              // Wait for 1 second
+  digitalWrite(ledPin, LOW);  // Turn the LED off
+  delay(1000);              // Wait for 1 second
+}
+```
+
+6. Press the ESP32 on-board Enable button when on consol appear "Connecting ............"
