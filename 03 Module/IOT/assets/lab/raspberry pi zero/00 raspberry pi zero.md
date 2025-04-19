@@ -40,14 +40,13 @@ while True:
 
 ```
 
-- click on ✅ to compile, then ➡️ to upload sketch on uno
+- click on "run" button to upload code
 
 <br>
 
 ### Documentation
 
-- Serial communication documentation [Click me](https://www.arduino.cc/reference/en/language/functions/communication/serial/read/)
 
-- Language reference documentation [Click me](https://docs.arduino.cc/language-reference/)
+- Language reference documentation [Click me](https://docs.micropython.org/en/latest/rp2/quickref.html)
 
 <br>
