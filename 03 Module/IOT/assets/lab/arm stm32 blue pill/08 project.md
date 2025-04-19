@@ -1,4 +1,4 @@
-### Interfacing of TFT Screen
+### Micro controller STM32 blue pill: Interfacing of TFT Screen
 
 ```js
 // include TFT and SPI libraries
