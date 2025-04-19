@@ -1,4 +1,4 @@
-### Interfacing of DHT 11
+### Micro controller ESP32: Interfacing of DHT 11
 
 ```js
 #include "DHT.h"

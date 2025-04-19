@@ -1,4 +1,4 @@
-### Blink a RGB LED
+### Micro controller Arduino UNO: Blink a RGB LED
 
 ```js
 #define LED1RED 5

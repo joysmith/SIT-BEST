@@ -1,4 +1,4 @@
-# 🧪 Micro controller: STM32 blue pill
+# 🧪 Micro controller STM32 blue pill Lab
 
 - [ ] 0. Setting up Arduino development environment [text](<00 stm32.md>)
 - [ ] 1. Blink a RGB LED [text](<01 project.md>)

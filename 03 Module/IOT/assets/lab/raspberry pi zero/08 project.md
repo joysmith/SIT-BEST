@@ -1,4 +1,4 @@
-### Interfacing of TFT Screen
+## Micro controller Raspberry Pi Pico: Interfacing of TFT Screen
 
 ```js
 // include TFT and SPI libraries

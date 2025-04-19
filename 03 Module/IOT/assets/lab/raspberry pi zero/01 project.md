@@ -1,4 +1,4 @@
-### Blink a RGB LED
+## Micro controller Raspberry Pi Pico: Blink a RGB LED
 
 ```js
 #define LED1RED 5

@@ -1,4 +1,4 @@
-### Interfacing of DHT 11
+### Micro controller Arduino UNO: Interfacing of DHT 11
 
 ```js
 #include "DHT.h"

@@ -1,4 +1,4 @@
-## Interfacing BMP280 Sensor
+## Micro controller Raspberry Pi Pico: Interfacing BMP280 Sensor
 
 ```js
 #include <Wire.h>

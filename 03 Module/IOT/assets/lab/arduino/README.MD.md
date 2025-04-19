@@ -1,4 +1,4 @@
-# 🧪 Micro controller: Arduino UNO Lab
+# 🧪 Micro controller Arduino UNO Lab
 
 - [ ] 0. Setting up Arduino development environment [click me](<00 arduino.md>)
 - [ ] 1. Blink a RGB LED [click me](<01 project.md>)
