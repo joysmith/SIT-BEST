@@ -1,6 +1,6 @@
 # 🧪 Micro controller STM32 blue pill Lab
 
-- [ ] 0. Setting up "TM32 blue pill" development environment [click me](<00 stm32.md>)
+- [ ] 0. Setting up "STM32 blue pill" development environment [click me](<00 stm32.md>)
 - [ ] 1. Blink a RGB LED [click me](<01 project.md>)
 - [ ] 2. Pushbutton with an LED [click me](<02 project.md>)
 - [ ] 3. Interfacing of DHT 11 [click me](<03 project.md>)
