@@ -1,6 +1,6 @@
-## 🧪 ## Micro controller Raspberry Pi Pico lab
+## 🧪 Micro controller Raspberry Pi Pico lab
 
-- [ ] 0. Setting up "Raspberry Pi Pico" development environment [click me](<00 arduino.md>)
+- [ ] 0. Setting up "Raspberry Pi Pico" development environment [click me](<00 raspberry pi zero.md>)
 - [ ] 1. Blink a RGB LED [click me](<01 project.md>)
 - [ ] 2. Pushbutton with an LED [click me](<02 project.md>)
 - [ ] 3. Interfacing of DHT 11 [click me](<03 project.md>)
