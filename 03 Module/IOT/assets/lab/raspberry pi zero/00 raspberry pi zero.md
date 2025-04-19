@@ -17,18 +17,14 @@
 - Open Thonny IDE--> run--> Interpreter--> “MicroPython (Raspberry Pi Pico)"--> ok
 - Install MicroPython for Pico: First, hold down the “BOOTSEL" button on Pico; then, while still holding it down, connect Pico to a computer using a USB cable.
 - Open INDEX.HTM --> Drop down and click on the MicroPython--> Click on the “Download UF2.file" [direct link click me](https://datasheets.raspberrypi.com/soft/flash_nuke.uf2)
-- First, connect Pico to the computer using a USB cable; then, open Thonny, and click on
-  the “restart back-end process" button on the toolbar. If you successfully connect Pico to your
-  computer, you will see the MicroPython version information and device name returned by Pico in
-  the Shell area
+- Open Thonny IDE--> run--> Interpreter--> Install or update firmware--> ok
+- First, connect Pico to the computer using a USB cable; then, open Thonny, and click on the “restart back-end process" button on the toolbar. If you successfully connect Pico to your computer, you will see the MicroPython version information and device name returned by Pico in the Shell area
 
 <br>
 
 ### How to upload a sketch to your Arduino<a id="57"></a>
 
-- go to menu Files--> Example--> basic--> blink
-- go to menu Tools--> Boards--> arduino avr board--> arduino uno
-- go to menu Tools--> Port--> COM(arduino)
+- Open Thonny IDE and in editor paste blink led code and click on "run" button
 
 ```py
 import machine
