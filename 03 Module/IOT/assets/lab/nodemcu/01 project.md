@@ -1,4 +1,4 @@
-### Micro controller ESP32: Blink a RGB LED
+## Micro controller ESP32: Blink a RGB LED
 
 ```js
 #define LED1RED 5

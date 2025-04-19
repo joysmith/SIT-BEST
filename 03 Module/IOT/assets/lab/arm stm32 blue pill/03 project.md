@@ -1,4 +1,4 @@
-### Micro controller STM32 blue pill: Interfacing of DHT 11
+## Micro controller STM32 blue pill: Interfacing of DHT 11
 
 ```js
 #include "DHT.h"

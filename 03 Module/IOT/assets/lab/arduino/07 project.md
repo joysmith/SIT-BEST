@@ -1,4 +1,4 @@
-### Micro controller Arduino UNO: Interfacing MPU6050 Sensor
+## Micro controller Arduino UNO: Interfacing MPU6050 Sensor
 
 ```js
 // Basic demo for accelerometer readings from Adafruit MPU6050

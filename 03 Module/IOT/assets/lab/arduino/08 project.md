@@ -1,4 +1,4 @@
-### Micro controller Arduino UNO: Interfacing of TFT Screen
+## Micro controller Arduino UNO: Interfacing of TFT Screen
 
 ```js
 // include TFT and SPI libraries

@@ -1,4 +1,4 @@
-### Micro controller ESP32: Interfacing PoT for Reading Analog Value
+## Micro controller ESP32: Interfacing PoT for Reading Analog Value
 
 ```js
 // Potentiometer is connected to GPIO 36 (Analog ADC1_CH6)

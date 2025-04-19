@@ -1,4 +1,4 @@
-### Micro controller STM32 blue pill: Blink a RGB LED
+## Micro controller STM32 blue pill: Blink a RGB LED
 
 ```js
 #define LED1RED 5

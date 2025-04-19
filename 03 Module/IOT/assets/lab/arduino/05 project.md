@@ -1,4 +1,4 @@
-### Micro controller Arduino UNO: Interfacing PoT for Reading Analog Value
+## Micro controller Arduino UNO: Interfacing PoT for Reading Analog Value
 
 ```js
 // Potentiometer is connected to GPIO 36 (Analog ADC1_CH6)

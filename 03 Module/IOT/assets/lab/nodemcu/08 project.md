@@ -1,4 +1,4 @@
-### Micro controller ESP32: Interfacing of TFT Screen
+## Micro controller ESP32: Interfacing of TFT Screen
 
 ```js
 // include TFT and SPI libraries
