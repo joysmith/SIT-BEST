@@ -37,8 +37,8 @@
 
 - [ ] 1. Arduino Uno microcontroller. [Click me](assets/lab/arduino/README.MD.md)
 - [ ] 2. Node MCU microcontroller. [click me](assets/lab/nodemcu/README.MD.md)
-- [ ] 3. Raspberry pi zero microcontroller. [Click me](<assets/lab/raspberry pi zero/README.MD.md>)
-- [ ] 4. ARM stm32 microcontroller. [Click me](<assets/lab/arm stm32 blue pill/README.MD.md>)
+- [ ] 3. ARM stm32 microcontroller. [Click me](<assets/lab/arm stm32 blue pill/README.MD.md>)
+- [ ] 4. Raspberry pi zero microcontroller. [Click me](<assets/lab/raspberry pi zero/README.MD.md>)
 
 ---
 
