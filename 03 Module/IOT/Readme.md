@@ -36,8 +36,8 @@
 # 2. 🧪 Lab<a id='2'></a>
 
 - [ ] 1. Arduino Uno microcontroller. [Click me](assets/lab/arduino/README.MD.md)
-- [ ] 2. Node MCU microcontroller. [click me](<assets/lab/nodemcu/02 nodemcu.md>)
-- [ ] 3. Raspberry pi zero microcontroller. [click me](<assets/lab/raspberry pi zero/03 raspberrypizero.md>)
+- [ ] 2. Node MCU microcontroller. [click me](assets/lab/nodemcu/README.MD.md)
+- [ ] 3. Raspberry pi zero microcontroller. [Click me](<assets/lab/raspberry pi zero/README.MD.md>)
 - [ ] 4. ARM stm32 microcontroller. [Click me](<assets/lab/arm stm32 blue pill/README.MD.md>)
 
 ---
