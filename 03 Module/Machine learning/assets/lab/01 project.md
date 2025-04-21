@@ -52,14 +52,14 @@ data = pandas.read_csv('dataset.csv')
 data.describe()
 ```
 
-7.
+7. Putting data in pandas data structure
 
 ```py
 X = DataFrame(data, columns=['production_budget_usd'])
 y = DataFrame(data, columns=['worldwide_gross_usd'])
 ```
 
-8.
+8. Plotting graph using mathplot
 
 ```py
 plt.figure(figsize=(10,6))
@@ -75,6 +75,8 @@ plt.show()
 
 ### 5. Train Algorithm
 
+1. using linear regression model
+
 ```py
 regression = LinearRegression()
 regression.fit(X, y)
@@ -88,6 +90,8 @@ regression.coef_    # theta_1
 #Intercept
 regression.intercept_
 ```
+
+2. predict
 
 ```py
 plt.figure(figsize=(10,6))
