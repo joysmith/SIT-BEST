@@ -134,4 +134,3 @@ void loop() {
 
 ## Tools
 
-- Fritizing [Download](https://github.com/fritzing/fritzing-app/releases)
