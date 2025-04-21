@@ -115,3 +115,7 @@ plt.show()
 #Getting r square from Regression
 regression.score(X, y)
 ```
+
+### Download
+
+-[Download](<../../resource/01 Linear Regression (complete).ipynb>)
