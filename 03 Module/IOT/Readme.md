@@ -39,8 +39,11 @@
 - [ ] 2. Node MCU microcontroller. [click me](assets/lab/nodemcu/README.MD.md)
 - [ ] 3. ARM stm32 microcontroller. [Click me](<assets/lab/arm stm32 blue pill/README.MD.md>)
 - [ ] 4. Raspberry pi pico microcontroller. [Click me](<assets/lab/raspberry pi zero/README.MD.md>)
-- [ ] 5. Simulation tools: [Tinker Cad](https://www.tinkercad.com/dashboard), [fritzing](https://github.com/fritzing/fritzing-app/releases/download/CD-548/fritzing-3d61c58421bdb63ca903bb5d11310a257f1ec0ed-develop-548.windows.64.zip)
 
+#### Tools
+- 1. Simulation tools: [Tinker Cad](https://www.tinkercad.com/dashboard) 
+- 2. Visual circuit: [fritzing](https://github.com/fritzing/fritzing-app/releases/download/CD-548/fritzing-3d61c58421bdb63ca903bb5d11310a257f1ec0ed-develop-548.windows.64.zip)
+- 
 ---
 
 <br>
