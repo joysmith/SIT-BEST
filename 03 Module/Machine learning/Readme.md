@@ -29,7 +29,8 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [x] Basic of Python OOP paradigm[click me](assets/Resource/README.md)
+- [x] Basic of Python OOP paradigm [click me](assets/Resource/README.md)
+- [x] Linear regression [click me](<assets/lab/01 project.md>)
 
 ---
 
