@@ -29,7 +29,7 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [x] Basic of Python OOP paradigm [click me](assets/Resource/README.md), [Python](<assets/Resource/02 Python Intro.ipynb>)
+- [x] Basic of Python OOP paradigm [click me](assets/Resource/README.md), [download file](<assets/Resource/02 Python Intro.ipynb>)
 - [x] Linear regression [click me](<assets/Resource/01 Linear Regression (complete).ipynb>)
 
 ---
