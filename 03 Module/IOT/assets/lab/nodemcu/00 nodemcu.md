@@ -44,4 +44,4 @@ void loop() {
 }
 ```
 
-6. Press the ESP32 on-board Enable button when on consol appear "Connecting ............"
+6. Press the ESP32 on-board "boot" button when on consol appear "Connecting ............"
