@@ -1,5 +1,7 @@
 ## Micro controller Arduino UNO: Interfacing MPU6050 Sensor
 
+<img src="../../images/arduino/7.png" width="700">
+
 ```js
 // Basic demo for accelerometer readings from Adafruit MPU6050
 #include <Adafruit_MPU6050.h>

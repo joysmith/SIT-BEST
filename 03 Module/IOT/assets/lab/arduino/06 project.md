@@ -1,5 +1,7 @@
 ## Micro controller Arduino UNO: Interfacing BMP280 Sensor
 
+<img src="../../images/arduino/6.png" width="700">
+
 ```js
 #include <Wire.h>
 #include <SPI.h>

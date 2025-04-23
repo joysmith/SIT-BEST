@@ -1,5 +1,8 @@
 ## Micro controller Arduino UNO: Interfacing of TFT Screen
 
+Testing 🔴
+<img src="../../images/arduino/7.png" width="700">
+
 ```js
 // include TFT and SPI libraries
 #include <TFT.h>
