@@ -1,5 +1,7 @@
 ## Micro controller Arduino UNO: Interfacing Relay with AC Appliances
 
+<img src="../../images/arduino/4.png" width="700">
+
 ```js
 #define RELAY1 7
 
