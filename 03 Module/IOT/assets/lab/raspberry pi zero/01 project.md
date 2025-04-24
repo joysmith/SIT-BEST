@@ -1,5 +1,7 @@
 ## Micro controller Raspberry Pi Pico: Blink a RGB LED
 
+<img src="../../images/raspberry pi pico/1.png" width="700">
+
 ```js
 #define LED1RED 5
 #define LED1BLUE 3

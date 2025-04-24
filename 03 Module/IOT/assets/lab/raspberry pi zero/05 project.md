@@ -1,5 +1,7 @@
 ## Micro controller Raspberry Pi Pico: Interfacing PoT for Reading Analog Value
 
+<img src="../../images/raspberry pi pico/5.png" width="700">
+
 ```js
 // Potentiometer is connected to GPIO 36 (Analog ADC1_CH6)
 const int potPin = A0;

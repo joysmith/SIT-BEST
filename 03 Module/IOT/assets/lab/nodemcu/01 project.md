@@ -1,5 +1,7 @@
 ## Micro controller ESP32: Blink a RGB LED
 
+<img src="../../images/node mcu/1.png" width="700">
+
 ```js
 #define LED1RED 5
 #define LED1BLUE 3

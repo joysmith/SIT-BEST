@@ -1,5 +1,7 @@
 ## Micro controller ESP32: Interfacing BMP280 Sensor
 
+<img src="../../images/node mcu/6.png" width="700">
+
 ```js
 #include <Wire.h>
 #include <SPI.h>

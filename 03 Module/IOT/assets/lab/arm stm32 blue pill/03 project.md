@@ -1,5 +1,7 @@
 ## Micro controller STM32 blue pill: Interfacing of DHT 11
 
+<img src="../../images/stm32/3.png" width="700">
+
 ```js
 #include "DHT.h"
 #define DHTPIN 2 // Digital pin connected to the DHT sensor

@@ -1,5 +1,7 @@
 ## Micro controller STM32 blue pill: Blink a RGB LED
 
+<img src="../../images/stm32/1.png" width="700">
+
 ```js
 #define LED1RED 5
 #define LED1BLUE 3

@@ -1,5 +1,7 @@
 ## Micro controller ESP32: Pushbutton with an LED
 
+<img src="../../images/node mcu/2.png" width="700">
+
 ```js
 #define BUTTON_PIN 4
 #define LED_PIN 13

@@ -1,5 +1,7 @@
 ## Micro controller ESP32: Interfacing Relay with AC Appliances
 
+<img src="../../images/node mcu/4.png" width="700">
+
 ```js
 #define RELAY1 7
 

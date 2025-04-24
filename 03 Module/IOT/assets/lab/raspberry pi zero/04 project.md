@@ -1,5 +1,7 @@
 ## Micro controller Raspberry Pi Pico: Interfacing Relay with AC Appliances
 
+<img src="../../images/raspberry pi pico/4.png" width="700">
+
 ```js
 #define RELAY1 7
 

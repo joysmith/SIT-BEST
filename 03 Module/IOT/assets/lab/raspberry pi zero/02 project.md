@@ -1,5 +1,7 @@
 ## Micro controller Raspberry Pi Pico: Pushbutton with an LED
 
+<img src="../../images/raspberry pi pico/2.png" width="700">
+
 ```js
 #define BUTTON_PIN 4
 #define LED_PIN 13

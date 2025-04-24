@@ -1,5 +1,7 @@
 ## Micro controller STM32 blue pill: Interfacing Relay with AC Appliances
 
+<img src="../../images/stm32/4.png" width="700">
+
 ```js
 #define RELAY1 7
 

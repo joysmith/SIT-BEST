@@ -1,5 +1,7 @@
 ## Micro controller STM32 blue pill: Pushbutton with an LED
 
+<img src="../../images/stm32/2.png" width="700">
+
 ```js
 #define BUTTON_PIN 4
 #define LED_PIN 13
