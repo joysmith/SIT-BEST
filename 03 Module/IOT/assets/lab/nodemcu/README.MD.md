@@ -16,3 +16,5 @@
 
 - [ ] 9. Programming to send “HELLO WORLD” via Bluetooth Communication [click me](<09 project.md>)
 - [ ] 10. Programming to send “HELLO WORLD” via Bluetooth Communication interfacing with buzzer [click me](<10 project.md>)
+- [ ] 11. Experiencing to Interface MPU6050 Sensor and send data to Blynk Cloud App [click me](<11 project.md>)
+- [ ] 12. Experiencing to Control RGB LED using Blynk [click me](<12 project.md>)
