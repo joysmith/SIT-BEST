@@ -34,7 +34,6 @@
 - [ ] Wrong orientation / wrong model detection 
 - [ ] Low cost vision inspection
 
-
 ---
 
 <br>
