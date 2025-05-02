@@ -28,11 +28,12 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [ ] 1. SCARA [click me](<assets/lab/01 SCARA.md>)
-- [ ] 2. 6- Axis. [click me](<assets/lab/02 6-Axis.md>)
-- [ ] 3. Co-Bot. [click me](<assets/lab/03 Cobot.md>)
-- [ ] 4. Arch Welding. [click me](<assets/lab/04 Arc welding.md>)
-- [ ] 5. Spot Welding [click me](<assets/lab/05 Spot welding.md>)
+- [ ] Develop vision based system for defect detection.
+- [ ] Develop vision based system for model identification.
+- [ ] Part presence - absence for part field of vision
+- [ ] Wrong orientation / wrong model detection 
+- [ ] Low cost vision inspection
+
 
 ---
 
