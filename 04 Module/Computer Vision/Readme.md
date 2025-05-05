@@ -71,5 +71,5 @@
 
 1. CS131: Computer Vision Foundations and Applications [click me](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLZd-RT8IB2ELyRUy66HXF9OPN1_ZSizZM)
 
-1. [Thinking machine](https://www.youtube.com/watch?v=R3YFxF0n8n8&list=PLfsEr6YiELABYGnXtP2c0NzPQMDNkUhcQ)
+1. Thinking machine [youtube](https://www.youtube.com/watch?v=R3YFxF0n8n8&list=PLfsEr6YiELABYGnXtP2c0NzPQMDNkUhcQ)
 ---
