@@ -3,7 +3,7 @@
 #### Download Anaconda IDE
 
 - [Download and Install](https://www.anaconda.com/download/success)
-- Open anaconda
+- [Download and extract](<../resource/image and video.zip>)
 
 ### Boiler plate code
 
