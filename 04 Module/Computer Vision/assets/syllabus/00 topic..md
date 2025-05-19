@@ -3,6 +3,7 @@
 #### Download Anaconda IDE
 
 - [Download and Install](https://www.anaconda.com/download/success)
+- Open anaconda
 
 ### Boiler plate code
 
