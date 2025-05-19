@@ -13,7 +13,7 @@
 #### How to read image from computer
 
 ```py
-import cv2    #openCV use as cv2 in python
+import cv2    #pip install opencv-python
 
 #Loads a color image. Any transparency of image will be neglected. It is the default flag.
 #this function is used to read the image from location
@@ -273,4 +273,43 @@ cv2.destroyAllWindows()
 
 ### 5 - Connect Mobile Camera in openCV
 
+#### How to use mobile camera as webcam
+
+```py
+#How to use android device camera as webcam in OPencv.
+
+
+import cv2
+camera = "http://192.168.0.102:8080/video"
+#connect your laptop and android device with same network either wifi or hotspot
+cap = cv2.VideoCapture(0)   #Here parameter 0 is a path of any video use for webcam
+cap.open(camera)
+print("check===",cap.isOpened())
+#it is 4 byte code which is use to specify the video codec
+fourcc = cv2.VideoWriter_fourcc(*"XVID")  # *"XVID"
+#It contain 4 parameter , name, codec,fps,resolution
+output = cv2.VideoWriter("output.avi",fourcc,20.0,(640,480),0)
+
+while(cap.isOpened()):
+    ret, frame = cap.read()   #here read the frame
+    if ret == True:
+
+        frame = cv2.resize(frame,(700,700))
+        gray  = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
+        cv2.imshow("Gray Frame",gray)
+        cv2.imshow('Colorframe',frame)
+        if cv2.waitKey(1) & 0xFF == ord('q'):   #press to exit
+            break
+
+
+# Release everything if job is finished
+cap.release()
+output.release()
+cv2.destroyAllWindows()
+```
+
 ### 6 - Basic Screen Recording using OpenCV
+
+```py
+
+```
