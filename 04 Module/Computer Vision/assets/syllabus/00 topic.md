@@ -43,6 +43,7 @@ Open conda prompt and type cmd
 
 ```sh
 pip install opencv-python
+
 ```
 
 #### How to open anaconda navigator
