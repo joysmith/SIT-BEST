@@ -205,10 +205,6 @@ cv2.destroyAllWindows()
 #### Documentation
 
 - cv2.circle() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-circle-method/)
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
 
 <br>
 
@@ -240,81 +236,100 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
+- cv2.FONT_ITALIC [reference](https://docs.opencv.org/4.x/d6/d6e/group__imgproc__draw.html)
+- cv2.putText() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/)
 
 <br>
 
-#### 🔴(not working) How to draw ellipse
+#### How to draw ellipse
 
 ```py
-import numpy as np
 import cv2
+import numpy as np
 
+# Create a blank image (black background)
+image = np.zeros((500, 500, 3), dtype=np.uint8)
 
-img = cv2.imread("C:\\Users\\91958\\Pictures\\turtle.jpg")
-img = cv2.resize(img,(600,700))
+# Define ellipse parameters
+center_coordinates = (250, 250)      # Center of the ellipse
+axes_length = (100, 50)              # Length of the axes (major, minor)
+angle = 30                           # Angle of rotation of ellipse in degrees
+start_angle = 0                      # Starting angle of the elliptic arc
+end_angle = 360                      # Ending angle of the elliptic arc (360 = full ellipse)
+color = (0, 255, 0)                  # Color in BGR (Green)
+thickness = 2                        # Thickness of the ellipse outline
 
-#Creating Blank Image---
+# Draw the ellipse
+cv2.ellipse(image, center_coordinates, axes_length, angle, start_angle, end_angle, color, thickness)
 
-img = np.zeros([512, 512, 3], np.uint8)*255  #For black screen
-
-#ellipse-accept(img,start_cor,(length,height),color,thickness)
-img = cv2.ellipse(img,(400,600),(100,50),0,0,180,155,5)
-
-cv2.imshow('image', img)
-
+# Display the image
+cv2.imshow('Ellipse', image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
 ```
 
 
 #### Documentation
 
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
+- cv2.ellipse() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-ellipse-method/)
+
 
 <br>
 
 #### How to draw custom shape
 
 ```py
-import numpy as np
+# Python program to explain 
+# cv2.polylines() method 
+
 import cv2
+import numpy as np
 
 
-img = cv2.imread("C:\\Users\\91958\\Pictures\\turtle.jpg")
-img = cv2.resize(img,(600,700))
 
-#Creating Blank Image---
+image = cv2.imread("/home/joy/Pictures/cat.jpg",1)
 
-img = np.zeros([512, 512, 3], np.uint8)*255  #For black screen
 
-pts = np.array([[100,150],[200,30],[170,20],[50,10]], np.int32)
-pts = pts.reshape((-1,1,2))
-img = cv2.polylines(img,[pts],True,(0,255,155))
+# Window name in which image is
+# displayed
+window_name = 'Image'
 
-cv2.imshow('image', img)
+# Polygon corner points coordinates
+pts = np.array([[25, 70], [25, 160], 
+                [110, 200], [200, 160], 
+                [200, 70], [110, 20]],
+               np.int32)
 
-cv2.waitKey(0)
+pts = pts.reshape((-1, 1, 2))
+
+isClosed = True
+
+# Blue color in BGR
+color = (255, 0, 0)
+
+# Line thickness of 2 px
+thickness = 2
+
+# Using cv2.polylines() method
+# Draw a Blue polygon with 
+# thickness of 1 px
+image = cv2.polylines(image, [pts], 
+                      isClosed, color, thickness)
+
+# Displaying the image
+while(1):
+    
+    cv2.imshow('image', image)
+    if cv2.waitKey(20) & 0xFF == 27:
+        break
+        
 cv2.destroyAllWindows()
 ```
 
 
 #### Documentation
 
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
+- cv2.polylines() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-polylines-method/)
 
 <br>
 
@@ -358,11 +373,7 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
+- cv2.putText() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/)
 
 <br>
 
@@ -401,11 +412,7 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
-- () [reference]()
+- cv2.EVENT_LBUTTONDBLCLK() [reference](https://www.tutorialspoint.com/opencv_python/opencv_python_handling_mouse_events.htm)
 
 <br>
 
