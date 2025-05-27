@@ -54,11 +54,7 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- re size() [reference](https://www.geeksforgeeks.org/image-resizing-using-opencv-python/)
 
 <br>
 
@@ -81,11 +77,7 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- imread() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-imread-method/)
 
 
 <br>
@@ -108,11 +100,7 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- imread() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-imread-method/)
 
 
 <br>
@@ -145,14 +133,6 @@ cv2.waitKey(0)  #here parameter inside waitkey handle the life duration of an im
 cv2.destroyAllWindows()
 ```
 
-
-#### Documentation
-
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
 
 <br>
 
@@ -202,11 +182,7 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- flip() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-flip-method/)
 
 
 <br>
@@ -236,11 +212,7 @@ elif k == ord("s"):
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- imwrite() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-imwrite-method/)
 
 
 <br>
@@ -278,11 +250,7 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- VideoCapture() [reference](https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html)
 
 
 <br>
@@ -320,11 +288,7 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- v2.CAP_PROP_FRAME_WIDTH [reference](https://www.geeksforgeeks.org/how-to-get-properties-of-python-cv2-videocapture-object/)
 
 <br>
 
@@ -375,11 +339,8 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- VideoWriter() [reference](https://www.geeksforgeeks.org/saving-operated-video-from-a-webcam-using-opencv/)
+- cv2.COLOR_BGR2GRAY [reference](https://docs.opencv.org/4.x/d4/d15/group__videoio__flags__base.html)
 
 <br>
 
@@ -423,11 +384,11 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
 
 <br>
 
@@ -483,11 +444,11 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
 
 <br>
 
@@ -532,11 +493,11 @@ output.release()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
 
 
 <br>
@@ -575,11 +536,11 @@ cv2.destroyAllWindows()
 
 #### Documentation
 
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
 
 <br>
 
@@ -605,3 +566,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+
+#### Documentation
+
+- opyMakeBorder() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-copymakeborder-method/)
