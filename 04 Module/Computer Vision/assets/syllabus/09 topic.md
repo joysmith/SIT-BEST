@@ -3,6 +3,8 @@
 
 ### Creating a finger counter computer vision
 
+<img src="./images/MediaPipe.png" width="700">
+
 1. Install library
 
 ```sh
