@@ -5,6 +5,15 @@
 - Download and Install [setup](https://www.anaconda.com/download/success)
 - Download and extract [Exercise file](<../resource/image and video.zip>)
 
+
+#### install openCV library 
+
+Open conda prompt and type cmd
+
+```sh
+pip install opencv-python
+```
+
 #### Boiler plate code 
 
 ```py
@@ -28,6 +37,13 @@ cv2.destroyAllWindows()
 - Download and Install [setup](https://www.anaconda.com/download/success)
 - Download and extract [Exercise file](<../resource/image and video.zip>)
 
+#### install openCV library 
+
+Open conda prompt and type cmd
+
+```sh
+pip install opencv-python
+```
 
 #### How to open anaconda navigator
 
