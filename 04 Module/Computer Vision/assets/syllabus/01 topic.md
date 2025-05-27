@@ -26,15 +26,10 @@ cv2.waitKey(0)  #here parameter inside waitkey handle the life duration of an im
 cv2.destroyAllWindows()
 ```
 #### Documentation
-- imread()[reference](https://www.geeksforgeeks.org/python-opencv-cv2-imread-method/)
-- imshow()[reference](https://www.geeksforgeeks.org/python-opencv-cv2-imshow-method/)
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
-- ()[reference]()
+- imread() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-imread-method/)
+- imshow() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-imshow-method/)
+- waitKey() [reference](https://www.geeksforgeeks.org/python-opencv-waitkey-function/)
+- destroyAllWindows() [reference](https://www.geeksforgeeks.org/python-opencv-destroyallwindows-function/)
 
 
 
@@ -56,6 +51,15 @@ cv2.waitKey(0)  #here parameter inside waitkey handle the life duration of an im
 cv2.destroyAllWindows()
 ```
 
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
+
 #### How to read image in gray-scale(black and white)
 
 ```py
@@ -72,6 +76,16 @@ cv2.waitKey(0)  #here parameter inside waitkey handle the life duration of an im
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
+
 #### How to read image with alpha channel
 
 ```py
@@ -86,6 +100,16 @@ print("Image in original value==\n",img3)
 cv2.waitKey(0)  #here parameter inside waitkey handle the life duration of an image
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
 
 #### Putting all images together for comparison
 
@@ -114,6 +138,15 @@ print("Image in original value==\n",img3)
 cv2.waitKey(0)  #here parameter inside waitkey handle the life duration of an image
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
 
 #### How to take path of image from console
 
@@ -155,6 +188,15 @@ cv2.destroyAllWindows()
 
 ```
 
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
 #### How to save image using logic
 
 ```py
@@ -176,6 +218,16 @@ elif k == ord("s"):
     cv2.imwrite("C:\\Users\\91958\\Pictures\\output.jpg",img1)  #it accept name of image and data
     cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
 
 <br>
 
@@ -209,6 +261,15 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
 #### How to perform grayscale operation and flip video
 
 ```py
@@ -238,6 +299,16 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
 
 #### How to read video from webcam
 
@@ -283,6 +354,15 @@ output.release()
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
 ### 5 - Connect Mobile Camera in openCV
 
 #### How to use mobile camera as webcam
@@ -319,6 +399,15 @@ cap.release()
 output.release()
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
 
 #### 🔴(library not working) How to get video from youtube for opencv
 
@@ -369,6 +458,15 @@ output.release()
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
 ### 6 - 🔴(library not working) Basic Screen Recording using OpenCV
 
 ```py
@@ -407,6 +505,16 @@ c.destroyAllWindows()
 output.release()
 ```
 
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
+
 #### How to capture multiple images and save in a folder for dataset
 
 ```py
@@ -437,6 +545,15 @@ while True:
 vidcap.release()
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
 
 ### 13 How to draw border
 
