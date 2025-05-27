@@ -32,6 +32,7 @@ cv2.destroyAllWindows()
 - destroyAllWindows() [reference](https://www.geeksforgeeks.org/python-opencv-destroyallwindows-function/)
 
 
+<br>
 
 #### How to resize image
 
@@ -59,6 +60,7 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 
+<br>
 
 #### How to read image in gray-scale(black and white)
 
@@ -86,6 +88,8 @@ cv2.destroyAllWindows()
 - ()[reference]()
 
 
+<br>
+
 #### How to read image with alpha channel
 
 ```py
@@ -110,6 +114,8 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 
+
+<br>
 
 #### Putting all images together for comparison
 
@@ -148,6 +154,8 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 
+<br>
+
 #### How to take path of image from console
 
 ```py
@@ -167,6 +175,9 @@ cv2.waitKey(0)  #here parameter inside waitkey handle the life duration of an im
 cv2.destroyAllWindows()
 
 ```
+
+
+<br>
 
 #### How to flip image
 
@@ -196,6 +207,9 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 - ()[reference]()
+
+
+<br>
 
 #### How to save image using logic
 
@@ -270,6 +284,9 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 
+
+<br>
+
 #### How to perform grayscale operation and flip video
 
 ```py
@@ -309,6 +326,7 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 
+<br>
 
 #### How to read video from webcam
 
@@ -363,6 +381,8 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 
+<br>
+
 ### 5 - Connect Mobile Camera in openCV
 
 #### How to use mobile camera as webcam
@@ -408,6 +428,8 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 - ()[reference]()
+
+<br>
 
 #### 🔴(library not working) How to get video from youtube for opencv
 
@@ -467,6 +489,8 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 
+<br>
+
 ### 6 - 🔴(library not working) Basic Screen Recording using OpenCV
 
 ```py
@@ -515,6 +539,8 @@ output.release()
 - ()[reference]()
 
 
+<br>
+
 #### How to capture multiple images and save in a folder for dataset
 
 ```py
@@ -554,6 +580,8 @@ cv2.destroyAllWindows()
 - ()[reference]()
 - ()[reference]()
 - ()[reference]()
+
+<br>
 
 ### 13 How to draw border
 
