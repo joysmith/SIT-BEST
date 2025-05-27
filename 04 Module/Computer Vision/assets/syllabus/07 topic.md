@@ -1,5 +1,11 @@
 ## Image segmentation
 
+- Image segmentation demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/image_segmenter)
+
+
+- Interactive segementation demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/interactive_segmenter)
+
+
 29 - Contours and its Introduction
 
 30 - Contour and its functions

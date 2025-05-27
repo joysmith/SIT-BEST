@@ -1,5 +1,8 @@
 ## Filtering techniques
 
+- Face Stylization demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/face_stylizer)
+
+
 ```py
 #Start with Basic operations on Image
 import cv2

@@ -1,5 +1,16 @@
 ## Motion, object detection, Optical character recognition
 
+- Object detection demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/object_detector)
+
+- Face detection demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/face_detector)
+
+
+- Face Landmark Detection demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/face_landmarker)
+
+- Pose Landmark Detection demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/pose_landmarker)
+
+
+
 7 - Drawing Functions in OpenCV
 
 8 - Set Date Time and frame size using OpenCv

@@ -74,4 +74,13 @@
 
 1. Thinking machine [youtube](https://www.youtube.com/watch?v=R3YFxF0n8n8&list=PLfsEr6YiELABYGnXtP2c0NzPQMDNkUhcQ)
 
+
+# 7. Cool project on Internet
+
+#### Based on mediapipe library by google
+
+1. [Body Posture Analysis using MediaPipe](https://www.youtube.com/watch?v=2WVX5hvr7xw)
+1. []()
+1. []()
+
 ---
