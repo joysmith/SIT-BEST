@@ -49,6 +49,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+#### Documentation
+
+- np.ones() [reference](https://www.geeksforgeeks.org/numpy-ones-python/)
+
+
+<br>
+
 #### How to create black image
 
 ```py
@@ -69,6 +76,16 @@ cv2.imshow('image', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
+#### Documentation
+
+- np.zeros() [reference](https://numpy.org/doc/2.1/reference/generated/numpy.zeros.html)
+- np.zeros() [reference](https://www.geeksforgeeks.org/numpy-zeros-python/)
+- () [reference]()
+- () [reference]()
+- () [reference]()
+
+<br>
 
 #### How to draw line
 
@@ -93,6 +110,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- cv2.line() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-line-method/)
+
+<br>
+
 #### How to draw arrowed line
 
 ```py
@@ -115,6 +139,13 @@ cv2.imshow('image', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- cv2.arrowedLine() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-arrowedline-method/)
+
+<br>
 
 #### How to draw rectangle
 
@@ -139,6 +170,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- cv2.rectangle() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-rectangle-method/)
+
+<br>
+
 #### How to draw circle
 
 ```py
@@ -162,6 +200,17 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+
+
+#### Documentation
+
+- cv2.circle() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-circle-method/)
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+
+<br>
 
 #### How to draw text
 
@@ -188,6 +237,17 @@ cv2.destroyAllWindows()
 
 ```
 
+
+#### Documentation
+
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+
+<br>
+
 #### 🔴(not working) How to draw ellipse
 
 ```py
@@ -212,6 +272,17 @@ cv2.destroyAllWindows()
 
 ```
 
+
+#### Documentation
+
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+
+<br>
+
 #### How to draw custom shape
 
 ```py
@@ -235,6 +306,15 @@ cv2.imshow('image', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
 
 <br>
 
@@ -275,6 +355,17 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+
+<br>
+
 ### 9 - Handling Mouse Event using OpenCv
 
 ```py
@@ -305,6 +396,18 @@ while True:
 cv2.destroyAllWindows()
 #Create a function which help to find coordinate of any pixel and its color
 ```
+
+
+
+#### Documentation
+
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+- () [reference]()
+
+<br>
 
 #### Create a fucntion which help to find cordinate of any pixel and its color
 
