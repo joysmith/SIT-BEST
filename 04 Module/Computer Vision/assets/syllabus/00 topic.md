@@ -73,7 +73,7 @@ cv2_imshow(img1)  # It accepts the image as a parameter
 print("Give image with color==\n",img1)
 ```
 
-### Boiler plate code
+#### Boiler plate code
 
 ```py
 import cv2    #pip install opencv-python
