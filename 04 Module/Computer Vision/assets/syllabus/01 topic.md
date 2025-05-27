@@ -25,6 +25,18 @@ print("Give image with color==\n",img1)
 cv2.waitKey(0)  #here parameter inside waitkey handle the life duration of an image
 cv2.destroyAllWindows()
 ```
+#### Documentation
+- imread()[reference](https://www.geeksforgeeks.org/python-opencv-cv2-imread-method/)
+- imshow()[reference](https://www.geeksforgeeks.org/python-opencv-cv2-imshow-method/)
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+- ()[reference]()
+
+
 
 #### How to resize image
 
