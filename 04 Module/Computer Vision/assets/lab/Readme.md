@@ -28,6 +28,8 @@
 
 15. Plotting smoothing and sharpening spatial filtering using python
 
-16. Edge detection using python 
+16. Perform opening and closing using python
 
-17. Thresholding using python
+17. Edge detection using python 
+
+18. Thresholding using python
