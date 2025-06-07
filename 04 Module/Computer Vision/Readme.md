@@ -74,6 +74,12 @@
 
 1. Thinking machine [youtube](https://www.youtube.com/watch?v=R3YFxF0n8n8&list=PLfsEr6YiELABYGnXtP2c0NzPQMDNkUhcQ)
 
+1. How Camera work [youtube](https://www.youtube.com/watch?v=wsdmt0De8Hw)
+
+1. How LCD work [youtube](https://www.youtube.com/results?search_query=engineering+guy+LCD)
+
+1. 
+
 
 # 7. Cool project on Internet
 
