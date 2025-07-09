@@ -49,8 +49,8 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
+- [Foundational logic](<assets/Resource/project files>)
 - [Static kit logic](<assets/Resource/Static Module>)
-- [Practice logic](<assets/Resource/project files>)
 
 ---
 
