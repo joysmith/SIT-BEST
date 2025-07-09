@@ -17,12 +17,7 @@
 ### 41 object Tracking
 
 ```py
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov  8 17:34:13 2020
 
-@author: NISHANT
-"""
 #Object Tracking using Meanshift Algo.
 #The idea behind this algo is to move small window to get the high
 #density pixels same as histogram backprojection.

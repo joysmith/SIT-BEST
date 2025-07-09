@@ -504,11 +504,7 @@ cv2.destroyAllWindows()
 
 ```py
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov  8 16:35:31 2020
 
-@author: NISHANT
-"""
 #Background Subtraction is a way to access the foreground objects.
 #Technically, you need to extract the moving
 #foreground from static background.
