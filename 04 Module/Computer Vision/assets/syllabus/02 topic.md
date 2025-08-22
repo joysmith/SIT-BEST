@@ -1,5 +1,16 @@
 ## Motion, object detection, Optical character recognition
 
+- Object detection demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/object_detector)
+
+- Face detection demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/face_detector)
+
+
+- Face Landmark Detection demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/face_landmarker)
+
+- Pose Landmark Detection demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/pose_landmarker)
+
+
+
 7 - Drawing Functions in OpenCV
 
 8 - Set Date Time and frame size using OpenCv
@@ -49,6 +60,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+#### Documentation
+
+- np.ones() [reference](https://www.geeksforgeeks.org/numpy-ones-python/)
+
+
+<br>
+
 #### How to create black image
 
 ```py
@@ -69,6 +87,16 @@ cv2.imshow('image', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
+#### Documentation
+
+- np.zeros() [reference](https://numpy.org/doc/2.1/reference/generated/numpy.zeros.html)
+- np.zeros() [reference](https://www.geeksforgeeks.org/numpy-zeros-python/)
+- () [reference]()
+- () [reference]()
+- () [reference]()
+
+<br>
 
 #### How to draw line
 
@@ -93,6 +121,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- cv2.line() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-line-method/)
+
+<br>
+
 #### How to draw arrowed line
 
 ```py
@@ -115,6 +150,13 @@ cv2.imshow('image', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- cv2.arrowedLine() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-arrowedline-method/)
+
+<br>
 
 #### How to draw rectangle
 
@@ -139,6 +181,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- cv2.rectangle() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-rectangle-method/)
+
+<br>
+
 #### How to draw circle
 
 ```py
@@ -162,6 +211,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+
+
+#### Documentation
+
+- cv2.circle() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-circle-method/)
+
+<br>
 
 #### How to draw text
 
@@ -188,53 +244,103 @@ cv2.destroyAllWindows()
 
 ```
 
-#### 🔴(not working) How to draw ellipse
+
+#### Documentation
+
+- cv2.FONT_ITALIC [reference](https://docs.opencv.org/4.x/d6/d6e/group__imgproc__draw.html)
+- cv2.putText() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/)
+
+<br>
+
+#### How to draw ellipse
 
 ```py
-import numpy as np
 import cv2
+import numpy as np
 
+# Create a blank image (black background)
+image = np.zeros((500, 500, 3), dtype=np.uint8)
 
-img = cv2.imread("C:\\Users\\91958\\Pictures\\turtle.jpg")
-img = cv2.resize(img,(600,700))
+# Define ellipse parameters
+center_coordinates = (250, 250)      # Center of the ellipse
+axes_length = (100, 50)              # Length of the axes (major, minor)
+angle = 30                           # Angle of rotation of ellipse in degrees
+start_angle = 0                      # Starting angle of the elliptic arc
+end_angle = 360                      # Ending angle of the elliptic arc (360 = full ellipse)
+color = (0, 255, 0)                  # Color in BGR (Green)
+thickness = 2                        # Thickness of the ellipse outline
 
-#Creating Blank Image---
+# Draw the ellipse
+cv2.ellipse(image, center_coordinates, axes_length, angle, start_angle, end_angle, color, thickness)
 
-img = np.zeros([512, 512, 3], np.uint8)*255  #For black screen
-
-#ellipse-accept(img,start_cor,(length,height),color,thickness)
-img = cv2.ellipse(img,(400,600),(100,50),0,0,180,155,5)
-
-cv2.imshow('image', img)
-
+# Display the image
+cv2.imshow('Ellipse', image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
 ```
+
+
+#### Documentation
+
+- cv2.ellipse() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-ellipse-method/)
+
+
+<br>
 
 #### How to draw custom shape
 
 ```py
-import numpy as np
+# Python program to explain 
+# cv2.polylines() method 
+
 import cv2
+import numpy as np
 
 
-img = cv2.imread("C:\\Users\\91958\\Pictures\\turtle.jpg")
-img = cv2.resize(img,(600,700))
 
-#Creating Blank Image---
+image = cv2.imread("/home/joy/Pictures/cat.jpg",1)
 
-img = np.zeros([512, 512, 3], np.uint8)*255  #For black screen
 
-pts = np.array([[100,150],[200,30],[170,20],[50,10]], np.int32)
-pts = pts.reshape((-1,1,2))
-img = cv2.polylines(img,[pts],True,(0,255,155))
+# Window name in which image is
+# displayed
+window_name = 'Image'
 
-cv2.imshow('image', img)
+# Polygon corner points coordinates
+pts = np.array([[25, 70], [25, 160], 
+                [110, 200], [200, 160], 
+                [200, 70], [110, 20]],
+               np.int32)
 
-cv2.waitKey(0)
+pts = pts.reshape((-1, 1, 2))
+
+isClosed = True
+
+# Blue color in BGR
+color = (255, 0, 0)
+
+# Line thickness of 2 px
+thickness = 2
+
+# Using cv2.polylines() method
+# Draw a Blue polygon with 
+# thickness of 1 px
+image = cv2.polylines(image, [pts], 
+                      isClosed, color, thickness)
+
+# Displaying the image
+while(1):
+    
+    cv2.imshow('image', image)
+    if cv2.waitKey(20) & 0xFF == 27:
+        break
+        
 cv2.destroyAllWindows()
 ```
+
+
+#### Documentation
+
+- cv2.polylines() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-polylines-method/)
 
 <br>
 
@@ -275,6 +381,13 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
+
+#### Documentation
+
+- cv2.putText() [reference](https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/)
+
+<br>
+
 ### 9 - Handling Mouse Event using OpenCv
 
 ```py
@@ -305,6 +418,14 @@ while True:
 cv2.destroyAllWindows()
 #Create a function which help to find coordinate of any pixel and its color
 ```
+
+
+
+#### Documentation
+
+- cv2.EVENT_LBUTTONDBLCLK() [reference](https://www.tutorialspoint.com/opencv_python/opencv_python_handling_mouse_events.htm)
+
+<br>
 
 #### Create a fucntion which help to find cordinate of any pixel and its color
 
@@ -346,20 +467,3 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-10 - Color Picker Project using OpenCV
-
-11 - Merge,split,size function ,Basic operations on image using opencv
-
-12 - Find Roi of an Image and perform operations using Open CV
-
-13 - Making Borders of an image using openCV
-
-14 - Image Blending and Addition using opencv
-
-15 - Project on Image Blending using OpenCV
-
-16 - Bitwise Operations on Images using OpenCV
-
-17 - Object Tracking in Image using OpenCV
-
-18 - Color Tracking in video using OPenCV

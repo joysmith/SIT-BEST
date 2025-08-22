@@ -1,5 +1,8 @@
 ## Filtering techniques
 
+- Face Stylization demo [mediapipe](https://mediapipe-studio.webapps.google.com/studio/demo/face_stylizer)
+
+
 ```py
 #Start with Basic operations on Image
 import cv2
@@ -501,11 +504,7 @@ cv2.destroyAllWindows()
 
 ```py
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov  8 16:35:31 2020
 
-@author: NISHANT
-"""
 #Background Subtraction is a way to access the foreground objects.
 #Technically, you need to extract the moving
 #foreground from static background.
